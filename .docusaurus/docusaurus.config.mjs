@@ -38,7 +38,7 @@ export default {
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/reubenliengaard"
+          "editUrl": "https://github.com/ecolazy"
         },
         "theme": {
           "customCss": "/Users/reuben/Downloads/ecolazy.github.io/src/css/custom.css"
@@ -114,7 +114,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/reubenliengaard"
+              "href": "https://github.com/ecolazy"
             }
           ]
         }

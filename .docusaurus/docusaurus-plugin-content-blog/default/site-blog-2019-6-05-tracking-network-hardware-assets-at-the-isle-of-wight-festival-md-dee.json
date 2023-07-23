@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/tracking-network-hardware-assets-at-the-isle-of-wight-festival",
-  "editUrl": "https://github.com/reubenliengaard/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
+  "editUrl": "https://github.com/ecolazy/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
   "source": "@site/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
   "title": "Tracking Network Hardware Assets at the Isle of Wight Festival",
   "description": "The Isle of Wight Festival 2019 was a large-scale event that took place at Seaclose Park on the Isle of Wight. With 3km of arenas and fields to cover, the deployment of the network was a massive and complex undertaking. To ensure that the site was properly connected, network cabinets were set up in each arena and connected with miles of fiber optic cable. These cabinets were then connected to multiple ADSL connections that were bonded together, providing a robust and reliable internet connection.",

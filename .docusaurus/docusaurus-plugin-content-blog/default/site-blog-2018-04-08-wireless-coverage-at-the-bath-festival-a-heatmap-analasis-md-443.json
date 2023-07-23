@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/wireless-coverage-at-the-bath-festival-a-heatmap-analasis",
-  "editUrl": "https://github.com/reubenliengaard/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
+  "editUrl": "https://github.com/ecolazy/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
   "source": "@site/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
   "title": "Wireless Coverage at the Bath Festival - A Heatmap Analysis",
   "description": "At the Bath Festival, a small deployment of access points was placed around the tents to provide WiFi connectivity to attendees. In order to maximize coverage and ensure reliable connectivity, each access point was connected to a sector on an adjacent building via a point-to-point wireless link. In addition to the wireless link, each access point was also connected to a ADSL line and a temporary satellite on the roof to provide multiple redundant Internet connections.",

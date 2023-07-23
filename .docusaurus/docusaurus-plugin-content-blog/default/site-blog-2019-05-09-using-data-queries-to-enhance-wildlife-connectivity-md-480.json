@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/using-data-queries-to-enhance-wildlife-connectivity",
-  "editUrl": "https://github.com/reubenliengaard/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
+  "editUrl": "https://github.com/ecolazy/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
   "source": "@site/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
   "title": "Using Data Queries to Enhance Wildlife Connectivity",
   "description": "Rewilding involves the restoration of natural habitats in areas that have been modified or degraded by human activity. One way to identify suitable areas for rewilding is to search for topographic areas that are characterized by natural environments. This can be achieved through the use of a SQL query to search for rows in a database table where the value \"Natural Environment\" appears in the \"descriptivegroup\" column. This column likely contains an array of descriptive tags or categories for each topographic area.",

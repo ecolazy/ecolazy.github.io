@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/provisioning-cisco-cloud-wireless-controller",
-  "editUrl": "https://github.com/reubenliengaard/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
+  "editUrl": "https://github.com/ecolazy/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
   "source": "@site/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
   "title": "Provisioning Cisco Cloud Wireless Controller",
   "description": "In this project, we aimed to successfully install and configure the Cisco Catalyst c9800-CL wireless controller using KVM (Kernel-based Virtual Machine). The c9800-CL is a powerful and flexible cloud-based wireless controller that is capable of managing both on-premises and cloud-based wireless networks. It belongs to the Cisco Catalyst 9800 series and offers a range of advanced features such as wireless intrusion prevention, location services, and guest access.",

@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/flood-risk-assessment-of-pudding-brook",
-  "editUrl": "https://github.com/reubenliengaard/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
+  "editUrl": "https://github.com/ecolazy/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
   "source": "@site/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
   "title": "Flood Risk Assessment of Pudding Brooke",
   "description": "In order to assess the flood risk of Pudding Brooke, we first imported Digital Terrain Model LIDAR tiles into QGIS and used them to create contour polygons at 0.25m intervals. These contour polygons were then styled using a graduated color scheme, with each polygon being colored based on its elevation. This allowed us to easily visualize the topography of the area and identify areas that were prone to flooding.",

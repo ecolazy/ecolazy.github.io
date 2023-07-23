@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'reubenliengaard', // Usually your GitHub org/user name.
-  projectName: 'reubenliengaard.github.io', // Usually your repo name.
+  projectName: 'ecolazy.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/reubenliengaard',
+            'https://github.com/ecolazy',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/reubenliengaard',
+                href: 'https://github.com/ecolazy',
               },
             ],
           },

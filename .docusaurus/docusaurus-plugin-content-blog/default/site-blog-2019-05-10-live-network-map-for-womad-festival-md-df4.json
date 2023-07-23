@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/live-network-map-for-womad-festival",
-  "editUrl": "https://github.com/reubenliengaard/blog/2019-05-10-live-network-map-for-womad-festival.md",
+  "editUrl": "https://github.com/ecolazy/blog/2019-05-10-live-network-map-for-womad-festival.md",
   "source": "@site/blog/2019-05-10-live-network-map-for-womad-festival.md",
   "title": "Live Network Map for WOMAD Festival - Visualizing Status and Coverage",
   "description": "The web application we developed allows users to access and update the location data for network devices. When the location of a device needs to be recorded, the user simply enters the device's MAC address into the app. The MAC address is then checked against a list of available device MAC addresses in the database to verify its authenticity. If the MAC address exists in the database, it is marked as \"deployed\" and the coordinates of the user's phone, on which the update was made, are added to the latitude and longitude columns. If the MAC address is entered incorrectly or does not correspond to a device in the database, the app user is notified and asked to enter a different MAC address.",

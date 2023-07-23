@@ -1414,7 +1414,7 @@
           "id": "designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees",
           "metadata": {
             "permalink": "/blog/designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees",
-            "editUrl": "https://github.com/reubenliengaard/blog/2022-05-04-designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees.md",
+            "editUrl": "https://github.com/ecolazy/blog/2022-05-04-designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees.md",
             "source": "@site/blog/2022-05-04-designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees.md",
             "title": "Designing Hardware for Mounting Wireless Equipment on Marquees",
             "description": "Wireless access points and point-to-point links have been installed on the aluminum extrusion structural elements of outdoor event marquees using a innovative system that employs a keeder rail. The keeder rail accommodates a cylindrical metal piece with a threaded hole drilled perpendicular to its length, which can be easily secured in place by turning a large, flat disk with a threaded hole in the center. This setup supports a pipe clamp that is designed to fit standard aluminum poles, with two clamps used per pole to securely anchor the pole vertically on the side of the tent. This innovative method of installation allows for reliable and secure connectivity during events, while also maintaining the aesthetic integrity of the marquees.",
@@ -1460,7 +1460,7 @@
           "id": "wireless-coverage-at-manchester-pride",
           "metadata": {
             "permalink": "/blog/wireless-coverage-at-manchester-pride",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-09-06-manchester-pride-heat-map.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-09-06-manchester-pride-heat-map.md",
             "source": "@site/blog/2021-09-06-manchester-pride-heat-map.md",
             "title": "Wireless Coverage at Manchester Pride - A Heatmap Analysis",
             "description": "As part of this deployment project, our team encountered a physically demanding challenge: the installation of two sectors on the 18th floor of a tower block adjacent to the event site. From this vantage point, we were able to transmit a strong signal to multiple wireless point-to-point stations attached to temporary structures and buildings within the site. Additionally, we provided indoor wireless coverage in an underground parking garage that served as one of the event venues. To ensure optimal coverage, we created a heat map of the wireless signal strength in this area. Moreover, we established uplinks at various locations throughout the site to support ticket booths, CCTV cameras, payment terminals for bars, a production office, and emergency liaison cabins. Overall, this comprehensive approach to wireless connectivity allowed for seamless communication and connectivity throughout the event.",
@@ -1510,7 +1510,7 @@
           "id": "designing-for-comfort-and-practicality-in-motor-caravans",
           "metadata": {
             "permalink": "/blog/designing-for-comfort-and-practicality-in-motor-caravans",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-09-01-modeling-small-space-ergnomics.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-09-01-modeling-small-space-ergnomics.md",
             "source": "@site/blog/2021-09-01-modeling-small-space-ergnomics.md",
             "title": "Designing for Comfort and Practicality in Motor Caravans",
             "description": "As engineers and designers, it is our duty to create structures that not only function well, but also enhance the lives of those who use them. This is particularly important in the design of motor caravans, which serve as both vehicles and living spaces for travelers. With this in mind, we set out to design a caravan that prioritized both comfort and practicality.",
@@ -1560,7 +1560,7 @@
           "id": "parish-house-prices",
           "metadata": {
             "permalink": "/blog/parish-house-prices",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-09-01-parish-house-prices.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-09-01-parish-house-prices.md",
             "source": "@site/blog/2021-09-01-parish-house-prices.md",
             "title": "Parish House Prices - A Map of Average Sale Prices",
             "description": "In order to accurately assess the real estate market, our team utilized property sale data from the land registry and postal code data from the Ordnance Survey to determine the latitude and longitude coordinates of each house sale. This data was then imported into a PostGIS database, where an SQL query was run to calculate the average home price for each parish. To facilitate the visualization and analysis of this information, we utilized the powerful mapping software QGIS. By coloring the polygons representing each parish based on the average price, we were able to clearly and intuitively display the variations in the housing market across the region.",
@@ -1610,7 +1610,7 @@
           "id": "modeling-a-spherical-solar-concentrator",
           "metadata": {
             "permalink": "/blog/modeling-a-spherical-solar-concentrator",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-07-04-modeling-a-spherical-solar-concentrator.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-07-04-modeling-a-spherical-solar-concentrator.md",
             "source": "@site/blog/2021-07-04-modeling-a-spherical-solar-concentrator.md",
             "title": "Modeling a Spherical Solar Concentrator",
             "description": "Docusaurus Plushie",
@@ -1660,7 +1660,7 @@
           "id": "inspire-index-polygon-house-prices",
           "metadata": {
             "permalink": "/blog/inspire-index-polygon-house-prices",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-07-02-inspire-index-polygon-house-prices.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-07-02-inspire-index-polygon-house-prices.md",
             "source": "@site/blog/2021-07-02-inspire-index-polygon-house-prices.md",
             "title": "INSPIRE Index Polygon House Prices - A Map of Average Sale Prices",
             "description": "Prepare prices data",
@@ -1710,7 +1710,7 @@
           "id": "constructing-a-3d-egg-shape-from-regular-polygons",
           "metadata": {
             "permalink": "/blog/constructing-a-3d-egg-shape-from-regular-polygons",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-03-09-constructing-a-3d-egg-shape-from-regular-polygons.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-03-09-constructing-a-3d-egg-shape-from-regular-polygons.md",
             "source": "@site/blog/2021-03-09-constructing-a-3d-egg-shape-from-regular-polygons.md",
             "title": "Constructing a 3D Egg Shape from Regular Polygons",
             "description": "As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.",
@@ -1760,7 +1760,7 @@
           "id": "provisioning-cisco-cloud-wireless-controller",
           "metadata": {
             "permalink": "/blog/provisioning-cisco-cloud-wireless-controller",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
             "source": "@site/blog/2021-03-06-provisioning-cisco-cloud-wireless-controller.md",
             "title": "Provisioning Cisco Cloud Wireless Controller",
             "description": "In this project, we aimed to successfully install and configure the Cisco Catalyst c9800-CL wireless controller using KVM (Kernel-based Virtual Machine). The c9800-CL is a powerful and flexible cloud-based wireless controller that is capable of managing both on-premises and cloud-based wireless networks. It belongs to the Cisco Catalyst 9800 series and offers a range of advanced features such as wireless intrusion prevention, location services, and guest access.",
@@ -1810,7 +1810,7 @@
           "id": "truss-connection-node-modeling",
           "metadata": {
             "permalink": "/blog/truss-connection-node-modeling",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-03-04-truss-connection-node-modeling.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-03-04-truss-connection-node-modeling.md",
             "source": "@site/blog/2021-03-04-truss-connection-node-modeling.md",
             "title": "Truss Connection Node Modeling",
             "description": "Docusaurus Plushie",
@@ -1860,7 +1860,7 @@
           "id": "creating-3d-buildings-from-mastermap-with-qgis",
           "metadata": {
             "permalink": "/blog/creating-3d-buildings-from-mastermap-with-qgis",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-02-02-creating-3d-buildings-from-mastermap-with-qgis.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-02-02-creating-3d-buildings-from-mastermap-with-qgis.md",
             "source": "@site/blog/2021-02-02-creating-3d-buildings-from-mastermap-with-qgis.md",
             "title": "Creating 3d Buildings From Mastermap With Qgis",
             "description": "The Ordnance Survey Mastermap Topography Layer, the Building Height Attribute (BHA), and the Environment Agency LiDAR Digital Terrain Model (DTM) are all useful data sources that can be used to create 3D models of buildings. By combining this data and using the Qgis2ThreeJS plugin in QGIS, it is possible to visualize the BHA data in 3D and create a 3D model of a building.",
@@ -1910,7 +1910,7 @@
           "id": "gifford-circus-cry-wheel-performances",
           "metadata": {
             "permalink": "/blog/gifford-circus-cry-wheel-performances",
-            "editUrl": "https://github.com/reubenliengaard/blog/2021-02-02-gifford-circus-cry-wheel-performances.md",
+            "editUrl": "https://github.com/ecolazy/blog/2021-02-02-gifford-circus-cry-wheel-performances.md",
             "source": "@site/blog/2021-02-02-gifford-circus-cry-wheel-performances.md",
             "title": "Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage",
             "description": "Docusaurus Plushie",
@@ -1960,7 +1960,7 @@
           "id": "mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis",
           "metadata": {
             "permalink": "/blog/mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis",
-            "editUrl": "https://github.com/reubenliengaard/blog/2019-07-01-mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis.md",
+            "editUrl": "https://github.com/ecolazy/blog/2019-07-01-mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis.md",
             "source": "@site/blog/2019-07-01-mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis.md",
             "title": "Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS",
             "description": "The Royal Windsor Horse Show is an annual event that attracts thousands of visitors and is the largest outdoor horse show in the United Kingdom. In order to ensure that the event runs smoothly, it is important to provide reliable connectivity to the staff and trader areas.",
@@ -2010,7 +2010,7 @@
           "id": "tracking-network-hardware-assets-at-the-isle-of-wight-festival",
           "metadata": {
             "permalink": "/blog/tracking-network-hardware-assets-at-the-isle-of-wight-festival",
-            "editUrl": "https://github.com/reubenliengaard/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
+            "editUrl": "https://github.com/ecolazy/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
             "source": "@site/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
             "title": "Tracking Network Hardware Assets at the Isle of Wight Festival",
             "description": "The Isle of Wight Festival 2019 was a large-scale event that took place at Seaclose Park on the Isle of Wight. With 3km of arenas and fields to cover, the deployment of the network was a massive and complex undertaking. To ensure that the site was properly connected, network cabinets were set up in each arena and connected with miles of fiber optic cable. These cabinets were then connected to multiple ADSL connections that were bonded together, providing a robust and reliable internet connection.",
@@ -2060,7 +2060,7 @@
           "id": "live-network-map-for-womad-festival",
           "metadata": {
             "permalink": "/blog/live-network-map-for-womad-festival",
-            "editUrl": "https://github.com/reubenliengaard/blog/2019-05-10-live-network-map-for-womad-festival.md",
+            "editUrl": "https://github.com/ecolazy/blog/2019-05-10-live-network-map-for-womad-festival.md",
             "source": "@site/blog/2019-05-10-live-network-map-for-womad-festival.md",
             "title": "Live Network Map for WOMAD Festival - Visualizing Status and Coverage",
             "description": "The web application we developed allows users to access and update the location data for network devices. When the location of a device needs to be recorded, the user simply enters the device's MAC address into the app. The MAC address is then checked against a list of available device MAC addresses in the database to verify its authenticity. If the MAC address exists in the database, it is marked as \"deployed\" and the coordinates of the user's phone, on which the update was made, are added to the latitude and longitude columns. If the MAC address is entered incorrectly or does not correspond to a device in the database, the app user is notified and asked to enter a different MAC address.",
@@ -2110,7 +2110,7 @@
           "id": "using-data-queries-to-enhance-wildlife-connectivity",
           "metadata": {
             "permalink": "/blog/using-data-queries-to-enhance-wildlife-connectivity",
-            "editUrl": "https://github.com/reubenliengaard/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
+            "editUrl": "https://github.com/ecolazy/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
             "source": "@site/blog/2019-05-09-using-data-queries-to-enhance-wildlife-connectivity.md",
             "title": "Using Data Queries to Enhance Wildlife Connectivity",
             "description": "Rewilding involves the restoration of natural habitats in areas that have been modified or degraded by human activity. One way to identify suitable areas for rewilding is to search for topographic areas that are characterized by natural environments. This can be achieved through the use of a SQL query to search for rows in a database table where the value \"Natural Environment\" appears in the \"descriptivegroup\" column. This column likely contains an array of descriptive tags or categories for each topographic area.",
@@ -2160,7 +2160,7 @@
           "id": "wireless-coverage-at-the-bath-festival-a-heatmap-analasis",
           "metadata": {
             "permalink": "/blog/wireless-coverage-at-the-bath-festival-a-heatmap-analasis",
-            "editUrl": "https://github.com/reubenliengaard/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
+            "editUrl": "https://github.com/ecolazy/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
             "source": "@site/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
             "title": "Wireless Coverage at the Bath Festival - A Heatmap Analysis",
             "description": "At the Bath Festival, a small deployment of access points was placed around the tents to provide WiFi connectivity to attendees. In order to maximize coverage and ensure reliable connectivity, each access point was connected to a sector on an adjacent building via a point-to-point wireless link. In addition to the wireless link, each access point was also connected to a ADSL line and a temporary satellite on the roof to provide multiple redundant Internet connections.",
@@ -2210,7 +2210,7 @@
           "id": "exploring-the-unique-characteristics-of-natural-building-materials",
           "metadata": {
             "permalink": "/blog/exploring-the-unique-characteristics-of-natural-building-materials",
-            "editUrl": "https://github.com/reubenliengaard/blog/2017-03-05-exploring-the-unique-characteristics-of-natural-building-materials.md",
+            "editUrl": "https://github.com/ecolazy/blog/2017-03-05-exploring-the-unique-characteristics-of-natural-building-materials.md",
             "source": "@site/blog/2017-03-05-exploring-the-unique-characteristics-of-natural-building-materials.md",
             "title": "Exploring the Unique Characteristics of Natural Building Materials",
             "description": "Inspired by the idea of using natural building materials, we set out to explore the unique characteristics and personalities of each material and use them in innovative ways in our design. We wanted to capture the mood and atmosphere of the natural environments where these materials are typically found, such as the underground world of stone and water or the airy heights of wood.",
@@ -2260,7 +2260,7 @@
           "id": "flood-risk-assessment-of-pudding-brook",
           "metadata": {
             "permalink": "/blog/flood-risk-assessment-of-pudding-brook",
-            "editUrl": "https://github.com/reubenliengaard/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
+            "editUrl": "https://github.com/ecolazy/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
             "source": "@site/blog/2017-03-05-flood-risk-assessment-of-pudding-brook copy.md",
             "title": "Flood Risk Assessment of Pudding Brooke",
             "description": "In order to assess the flood risk of Pudding Brooke, we first imported Digital Terrain Model LIDAR tiles into QGIS and used them to create contour polygons at 0.25m intervals. These contour polygons were then styled using a graduated color scheme, with each polygon being colored based on its elevation. This allowed us to easily visualize the topography of the area and identify areas that were prone to flooding.",
@@ -2310,7 +2310,7 @@
           "id": "vertical-farming-for-continuous-salad-production",
           "metadata": {
             "permalink": "/blog/vertical-farming-for-continuous-salad-production",
-            "editUrl": "https://github.com/reubenliengaard/blog/2017-03-05-vertical-farming-for-continuous-salad-production.md",
+            "editUrl": "https://github.com/ecolazy/blog/2017-03-05-vertical-farming-for-continuous-salad-production.md",
             "source": "@site/blog/2017-03-05-vertical-farming-for-continuous-salad-production.md",
             "title": "Vertical Farming for Continuous Salad Production",
             "description": "Our team has an innovative idea for a self-sustaining salad bar that utilizes vertical space to meet production needs. We propose planting seedlings in a steel cable reinforced fiber matting that hangs vertically above the counter. This matting would be supported by two large drums at the top and bottom, and would be able to rotate at a speed calculated based on the height of the assembly, the maturation time of the chosen crop, and the desired harvesting frequency. This way, a seedling planted at the bottom would be ready for harvest by the time it reaches the top and returns to the bottom. With this system, the salad bar would be able to achieve perpetual harvesting, meeting its demand for fresh produce without having to rely on traditional terrestrial agriculture methods.",
@@ -2360,7 +2360,7 @@
           "id": "designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants",
           "metadata": {
             "permalink": "/blog/designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants",
-            "editUrl": "https://github.com/reubenliengaard/blog/2017-03-05-water-and-stone.md",
+            "editUrl": "https://github.com/ecolazy/blog/2017-03-05-water-and-stone.md",
             "source": "@site/blog/2017-03-05-water-and-stone.md",
             "title": "Designing a Living Building - An Organism with a Symbiotic Relationship with Its Occupants",
             "description": "When designing a building, it is important to consider the building as an organism that has a symbiotic relationship with its occupants. This means that the building should be organized like a system of interdependent organisms, with each organism fulfilling a specific function within the larger structure. By treating the building as an organism, we can create a dynamic and self-sustaining ecosystem that supports the health and well-being of its occupants.",
