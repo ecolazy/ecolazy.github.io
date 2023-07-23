@@ -6,13 +6,13 @@
 export default {
   "title": "Reuben Liengaard",
   "tagline": "Simplify Complexity",
-  "url": "https://reubenliengaard.github.io",
+  "url": "https://ecolazy.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "reubenliengaard",
-  "projectName": "reubenliengaard.github.io",
+  "projectName": "ecolazy.github.io",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "i18n": {
