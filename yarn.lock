@@ -33,11 +33,6 @@
   resolved "https://registry.npmjs.org/@algolia/cache-common/-/cache-common-4.14.3.tgz"
   integrity sha512-oZJofOoD9FQOwiGTzyRnmzvh3ZP8WVTNPBLH5xU5JNF7drDbRT0ocVT0h/xB2rPHYzOeXRrLaQQBwRT/CKom0Q==
 
-"@algolia/cache-common@4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/cache-common/-/cache-common-4.19.1.tgz#faa5eeacaffd6023c2cf26e9866bdb06193f9b26"
-  integrity sha512-XGghi3l0qA38HiqdoUY+wvGyBsGvKZ6U3vTiMBT4hArhP3fOGLXpIINgMiiGjTe4FVlTa5a/7Zf2bwlIHfRqqg==
-
 "@algolia/cache-in-memory@4.14.3":
   version "4.14.3"
   resolved "https://registry.npmjs.org/@algolia/cache-in-memory/-/cache-in-memory-4.14.3.tgz"
@@ -72,14 +67,6 @@
     "@algolia/requester-common" "4.14.3"
     "@algolia/transporter" "4.14.3"
 
-"@algolia/client-common@4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/client-common/-/client-common-4.19.1.tgz#40a8387316fa61d62ad1091beb3a8e227f008e75"
-  integrity sha512-3kAIVqTcPrjfS389KQvKzliC559x+BDRxtWamVJt8IVp7LGnjq+aVAXg4Xogkur1MUrScTZ59/AaUd5EdpyXgA==
-  dependencies:
-    "@algolia/requester-common" "4.19.1"
-    "@algolia/transporter" "4.19.1"
-
 "@algolia/client-personalization@4.14.3":
   version "4.14.3"
   resolved "https://registry.npmjs.org/@algolia/client-personalization/-/client-personalization-4.14.3.tgz"
@@ -98,15 +85,6 @@
     "@algolia/requester-common" "4.14.3"
     "@algolia/transporter" "4.14.3"
 
-"@algolia/client-search@^4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/client-search/-/client-search-4.19.1.tgz#5e54601aa5f5cea790cec3f2cde4af9d6403871e"
-  integrity sha512-mBecfMFS4N+yK/p0ZbK53vrZbL6OtWMk8YmnOv1i0LXx4pelY8TFhqKoTit3NPVPwoSNN0vdSN9dTu1xr1XOVw==
-  dependencies:
-    "@algolia/client-common" "4.19.1"
-    "@algolia/requester-common" "4.19.1"
-    "@algolia/transporter" "4.19.1"
-
 "@algolia/events@^4.0.1":
   version "4.0.1"
   resolved "https://registry.npmjs.org/@algolia/events/-/events-4.0.1.tgz"
@@ -116,11 +94,6 @@
   version "4.14.3"
   resolved "https://registry.npmjs.org/@algolia/logger-common/-/logger-common-4.14.3.tgz"
   integrity sha512-kUEAZaBt/J3RjYi8MEBT2QEexJR2kAE2mtLmezsmqMQZTV502TkHCxYzTwY2dE7OKcUTxi4OFlMuS4GId9CWPw==
-
-"@algolia/logger-common@4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/logger-common/-/logger-common-4.19.1.tgz#0e46a11510f3e94e1afc0ac780ae52e9597be78f"
-  integrity sha512-i6pLPZW/+/YXKis8gpmSiNk1lOmYCmRI6+x6d2Qk1OdfvX051nRVdalRbEcVTpSQX6FQAoyeaui0cUfLYW5Elw==
 
 "@algolia/logger-console@4.14.3":
   version "4.14.3"
@@ -141,11 +114,6 @@
   resolved "https://registry.npmjs.org/@algolia/requester-common/-/requester-common-4.14.3.tgz"
   integrity sha512-RrRzqNyKFDP7IkTuV3XvYGF9cDPn9h6qEDl595lXva3YUk9YSS8+MGZnnkOMHvjkrSCKfoLeLbm/T4tmoIeclw==
 
-"@algolia/requester-common@4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/requester-common/-/requester-common-4.19.1.tgz#f3396c77631b9d36e8d4d6f819a2c27f9ddbf7a1"
-  integrity sha512-BisRkcWVxrDzF1YPhAckmi2CFYK+jdMT60q10d7z3PX+w6fPPukxHRnZwooiTUrzFe50UBmLItGizWHP5bDzVQ==
-
 "@algolia/requester-node-http@4.14.3":
   version "4.14.3"
   resolved "https://registry.npmjs.org/@algolia/requester-node-http/-/requester-node-http-4.14.3.tgz"
@@ -161,15 +129,6 @@
     "@algolia/cache-common" "4.14.3"
     "@algolia/logger-common" "4.14.3"
     "@algolia/requester-common" "4.14.3"
-
-"@algolia/transporter@4.19.1":
-  version "4.19.1"
-  resolved "https://registry.yarnpkg.com/@algolia/transporter/-/transporter-4.19.1.tgz#b5787299740c4bec9ba05502d98c14b5999860c8"
-  integrity sha512-nkpvPWbpuzxo1flEYqNIbGz7xhfhGOKGAZS7tzC+TELgEmi7z99qRyTfNSUlW7LZmB3ACdnqAo+9A9KFBENviQ==
-  dependencies:
-    "@algolia/cache-common" "4.19.1"
-    "@algolia/logger-common" "4.19.1"
-    "@algolia/requester-common" "4.19.1"
 
 "@ampproject/remapping@^2.2.0":
   version "2.2.0"
@@ -1237,7 +1196,7 @@
     "@docsearch/css" "3.3.1"
     algoliasearch "^4.0.0"
 
-"@docusaurus/core@2.4.1", "@docusaurus/core@^2.4.1":
+"@docusaurus/core@2.4.1":
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.4.1.tgz#4b8ff5766131ce3fbccaad0b1daf2ad4dc76f62d"
   integrity sha512-SNsY7PshK3Ri7vtsLXVeAJGS50nJN3RgF836zkyUfAD01Fq+sAk5EwWgLw+nnm5KVNGDu7PRR2kRGDsWvqpo0g==
@@ -1484,7 +1443,7 @@
     sitemap "^7.1.1"
     tslib "^2.4.0"
 
-"@docusaurus/preset-classic@^2.4.1":
+"@docusaurus/preset-classic@2.4.1":
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-2.4.1.tgz#072f22d0332588e9c5f512d4bded8d7c99f91497"
   integrity sha512-P4//+I4zDqQJ+UDgoFrjIFaQ1MeS9UD1cvxVQaI6O7iBmiHQm0MGROP1TbE7HlxlDPXFJjZUK3x3cAoK63smGQ==
@@ -2927,6 +2886,14 @@ cli-table3@^0.6.2:
   optionalDependencies:
     "@colors/colors" "1.5.0"
 
+client-search@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/client-search/-/client-search-0.4.2.tgz#ee7d4be2aa9ba62d94759ccfe5a2c8bf88370ea6"
+  integrity sha512-kh+dWxwyLRwk9qRWY7dgRX8peNRu4nSL9SyO0p9Vd5MgjAV0qio71awMo56DXdtdzUSb8y9rAEDOMnjyHK4FJA==
+  dependencies:
+    helpful-decorators "^2.0.4"
+    moment "^2.24.0"
+
 clone-deep@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npmjs.org/clone-deep/-/clone-deep-4.0.1.tgz"
@@ -4276,6 +4243,17 @@ he@^1.2.0:
   resolved "https://registry.npmjs.org/he/-/he-1.2.0.tgz"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
+helpful-decorators@^2.0.4:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/helpful-decorators/-/helpful-decorators-2.1.0.tgz#3be11ed4600b856dc117336c8a2d8f2b60401052"
+  integrity sha512-RiJEDqSD5c7zmNbx0EgcOvHMOu793Q5M51Q8lS+EHtBmxVE89s95ScMg0bLmLqMl2mA+JEU6WfXkyGLcdYb0wg==
+  dependencies:
+    lodash.debounce "4.0.8"
+    lodash.delay "4.1.1"
+    lodash.memoize "4.1.2"
+    lodash.once "4.1.1"
+    lodash.throttle "4.1.1"
+
 history@^4.9.0:
   version "4.10.1"
   resolved "https://registry.npmjs.org/history/-/history-4.10.1.tgz"
@@ -4931,20 +4909,35 @@ lodash.curry@^4.0.1:
   resolved "https://registry.npmjs.org/lodash.curry/-/lodash.curry-4.1.1.tgz"
   integrity sha512-/u14pXGviLaweY5JI0IUzgzF2J6Ne8INyzAZjImcryjgkZ+ebruBxy2/JaOOkTqScddcYtakjhSaeemV8lR0tA==
 
-lodash.debounce@^4.0.8:
+lodash.debounce@4.0.8, lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
   integrity sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==
+
+lodash.delay@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/lodash.delay/-/lodash.delay-4.1.1.tgz#8a3b424988252ab912356d8e3ce93eb172d9f231"
+  integrity sha512-HDMACn/aGuz6PNBbzf2V9FKL/Rb2Vv+hSEvicdZA4JAT5o5m0rbQn4Xw62VdTzG2HRu74PInzku98fz8GQlNJg==
 
 lodash.flow@^3.3.0:
   version "3.5.0"
   resolved "https://registry.npmjs.org/lodash.flow/-/lodash.flow-3.5.0.tgz"
   integrity sha512-ff3BX/tSioo+XojX4MOsOMhJw0nZoUEF011LX8g8d3gvjVbxd89cCio4BCXronjxcTUIJUoqKEUA+n4CqvvRPw==
 
-lodash.memoize@^4.1.2:
+lodash.memoize@4.1.2, lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.npmjs.org/lodash.memoize/-/lodash.memoize-4.1.2.tgz"
   integrity sha512-t7j+NzmgnQzTAYXcsHYLgimltOV1MXHtlOWf6GjL9Kj8GK5FInw5JotxvbOs+IvV1/Dzo04/fCGfLVs7aXb4Ag==
+
+lodash.once@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/lodash.once/-/lodash.once-4.1.1.tgz#0dd3971213c7c56df880977d504c88fb471a97ac"
+  integrity sha512-Sb487aTOCr9drQVL8pIxOzVhafOjZN9UU54hiN8PU3uAiSV7lx1yYNpbNmex2PK6dSJoNTSJUUswT651yww3Mg==
+
+lodash.throttle@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
+  integrity sha512-wIkUCfVKpVsWo3JSZlc+8MB5it+2AN5W8J7YVMST30UrvcQNZ1Okbj+rbVniijTWE6FGYy4XJq/rHkas8qJMLQ==
 
 lodash.uniq@4.5.0, lodash.uniq@^4.5.0:
   version "4.5.0"
@@ -5151,6 +5144,11 @@ minimist@^1.2.0, minimist@^1.2.5:
   version "1.2.7"
   resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.7.tgz"
   integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
+
+moment@^2.24.0:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 mrmime@^1.0.0:
   version "1.0.1"
