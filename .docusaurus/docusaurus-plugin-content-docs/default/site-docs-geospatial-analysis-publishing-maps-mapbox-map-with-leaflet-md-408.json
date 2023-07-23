@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+  "id": "geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+  "title": "Toggle map",
+  "description": "",
+  "source": "@site/docs/geospatial-analysis/publishing-maps/mapbox-map-with-leaflet.md",
+  "sourceDirName": "geospatial-analysis/publishing-maps",
+  "slug": "/geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+  "permalink": "/docs/geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Publishing maps with Leaflet",
+    "permalink": "/docs/category/publishing-maps-with-leaflet"
+  },
+  "next": {
+    "title": "Network Status Map",
+    "permalink": "/docs/geospatial-analysis/publishing-maps/network-status-map"
+  }
+}

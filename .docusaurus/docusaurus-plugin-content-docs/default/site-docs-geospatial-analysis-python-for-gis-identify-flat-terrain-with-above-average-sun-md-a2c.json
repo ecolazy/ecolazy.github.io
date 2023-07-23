@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+  "id": "geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+  "title": "Identify flat terrain with above average sun",
+  "description": "To identify flat areas in lidar data using GDAL and GRASS in Python, you can use the following steps:",
+  "source": "@site/docs/geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun.md",
+  "sourceDirName": "geospatial-analysis/python-for-gis",
+  "slug": "/geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+  "permalink": "/docs/geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python for GIS",
+    "permalink": "/docs/category/python-for-gis"
+  },
+  "next": {
+    "title": "Uploading Data to PostGIS with Linux Shell",
+    "permalink": "/docs/category/uploading-data-to-postgis-with-linux-shell"
+  }
+}

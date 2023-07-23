@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+  "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+  "title": "Ordnance survey lidar data with raster2pgsql",
+  "description": "Load lidar data with either raster2pgsql",
+  "source": "@site/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar.md",
+  "sourceDirName": "geospatial-analysis/upload-data-to-postgis-with-linux-shell",
+  "slug": "/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+  "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loading Land registry inspire polygons",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons"
+  },
+  "next": {
+    "title": "Loading Ordnance Survey MasterMap with astun loader",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader"
+  }
+}

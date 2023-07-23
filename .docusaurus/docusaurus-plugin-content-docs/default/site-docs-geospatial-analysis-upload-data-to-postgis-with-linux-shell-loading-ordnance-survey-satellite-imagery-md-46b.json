@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+  "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+  "title": "Ordnance survey satellite imagery with raster2pgsql",
+  "description": "Load sattelite data with either raster2pgsql or ogr2ogr",
+  "source": "@site/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery.md",
+  "sourceDirName": "geospatial-analysis/upload-data-to-postgis-with-linux-shell",
+  "slug": "/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+  "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loading Ordnance Survey MasterMap with astun loader",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader"
+  },
+  "next": {
+    "title": "PostGIS Data Management and Queries",
+    "permalink": "/docs/category/postgis-data-management-and-queries"
+  }
+}

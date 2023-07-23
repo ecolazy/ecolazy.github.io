@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+  "title": "Land registry price paid parish",
+  "description": "Download data",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Land registry price paid parcels",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels"
+  },
+  "next": {
+    "title": "Query workings",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-workings"
+  }
+}

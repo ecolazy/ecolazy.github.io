@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/gifford-circus-cry-wheel-performances",
+  "editUrl": "https://github.com/reubenliengaard/blog/2021-02-02-gifford-circus-cry-wheel-performances.md",
+  "source": "@site/blog/2021-02-02-gifford-circus-cry-wheel-performances.md",
+  "title": "Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage",
+  "description": "Docusaurus Plushie",
+  "date": "2021-02-02T00:00:00.000Z",
+  "formattedDate": "February 2, 2021",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.18,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Reuben Liengaard",
+      "title": "Maintainer",
+      "url": "https://reubenliengaard.github.io",
+      "key": "reubenliengaard"
+    }
+  ],
+  "frontMatter": {
+    "slug": "gifford-circus-cry-wheel-performances",
+    "title": "Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage",
+    "authors": "reubenliengaard",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Creating 3d Buildings From Mastermap With Qgis",
+    "permalink": "/blog/creating-3d-buildings-from-mastermap-with-qgis"
+  },
+  "nextItem": {
+    "title": "Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS",
+    "permalink": "/blog/mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis"
+  }
+}

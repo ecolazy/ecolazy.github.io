@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+  "title": "Microclimates",
+  "description": "References",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-microclimates.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Least cost path wildlife corridors",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors"
+  },
+  "next": {
+    "title": "Wildlife corridor overview",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview"
+  }
+}

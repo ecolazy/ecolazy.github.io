@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+  "title": "Least cost path wildlife corridors",
+  "description": "Identify the current locations of important wildlife habitats in the study area, such as parks, green spaces, and natural areas.",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query workings",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-workings"
+  },
+  "next": {
+    "title": "Microclimates",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-microclimates"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/setting-up-a-postgis-database-server",
+  "id": "geospatial-analysis/setting-up-a-postgis-database-server",
+  "title": "Setting up PostGIS Database Server",
+  "description": "Create a pod",
+  "source": "@site/docs/geospatial-analysis/setting-up-a-postgis-database-server.md",
+  "sourceDirName": "geospatial-analysis",
+  "slug": "/geospatial-analysis/setting-up-a-postgis-database-server",
+  "permalink": "/docs/geospatial-analysis/setting-up-a-postgis-database-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Geospatial Analysis",
+    "permalink": "/docs/category/geospatial-analysis"
+  },
+  "next": {
+    "title": "Python for GIS",
+    "permalink": "/docs/category/python-for-gis"
+  }
+}

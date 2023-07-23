@@ -1,0 +1,26 @@
+{
+  "unversionedId": "artificial-intelligence/using-deepl-api",
+  "id": "artificial-intelligence/using-deepl-api",
+  "title": "Translating books with DeepL",
+  "description": "Steps",
+  "source": "@site/docs/artificial-intelligence/using-deepl-api.md",
+  "sourceDirName": "artificial-intelligence",
+  "slug": "/artificial-intelligence/using-deepl-api",
+  "permalink": "/docs/artificial-intelligence/using-deepl-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artificial Intelligence",
+    "permalink": "/docs/category/artificial-intelligence"
+  },
+  "next": {
+    "title": "Using OpenAI API",
+    "permalink": "/docs/artificial-intelligence/using-openai-api"
+  }
+}

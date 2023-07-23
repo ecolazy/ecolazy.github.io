@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/setup-rclone",
+  "id": "desktop-linux/setup-rclone",
+  "title": "Setup rclone",
+  "description": "Install rclone from the package manager",
+  "source": "@site/docs/desktop-linux/setup-rclone.md",
+  "sourceDirName": "desktop-linux",
+  "slug": "/desktop-linux/setup-rclone",
+  "permalink": "/docs/desktop-linux/setup-rclone",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Provisioning Fedora Workstation",
+    "permalink": "/docs/desktop-linux/provisioning-fedora-workstation"
+  },
+  "next": {
+    "title": "Configuring Visual Studio Code",
+    "permalink": "/docs/desktop-linux/configuring-visual-studio-code"
+  }
+}

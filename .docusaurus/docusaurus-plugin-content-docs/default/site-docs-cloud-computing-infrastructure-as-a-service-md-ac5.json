@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cloud-computing/infrastructure-as-a-service",
+  "id": "cloud-computing/infrastructure-as-a-service",
+  "title": "Infrastructure as a Service",
+  "description": "IaaS stands for \"Infrastructure as a Service.\" It refers to a cloud computing model in which an organization outsources the infrastructure necessary to support the operation of its applications and services. This includes physical infrastructure, such as servers, storage, and networking, as well as virtual infrastructure, such as operating systems, middleware, and runtime environments. With IaaS, the organization pays for the infrastructure resources it consumes on a pay-as-you-go basis.",
+  "source": "@site/docs/cloud-computing/infrastructure-as-a-service.md",
+  "sourceDirName": "cloud-computing",
+  "slug": "/cloud-computing/infrastructure-as-a-service",
+  "permalink": "/docs/cloud-computing/infrastructure-as-a-service",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software as a Service",
+    "permalink": "/docs/cloud-computing/software-as-a-service"
+  },
+  "next": {
+    "title": "Platform as a Service",
+    "permalink": "/docs/cloud-computing/platform-as-a-service"
+  }
+}

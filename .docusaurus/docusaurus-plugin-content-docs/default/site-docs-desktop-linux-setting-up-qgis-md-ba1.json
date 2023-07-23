@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/setting-up-qgis",
+  "id": "desktop-linux/setting-up-qgis",
+  "title": "Setting up Qgis",
+  "description": "",
+  "source": "@site/docs/desktop-linux/setting-up-qgis.md",
+  "sourceDirName": "desktop-linux",
+  "slug": "/desktop-linux/setting-up-qgis",
+  "permalink": "/docs/desktop-linux/setting-up-qgis",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuring Visual Studio Code",
+    "permalink": "/docs/desktop-linux/configuring-visual-studio-code"
+  },
+  "next": {
+    "title": "Working with files via Linux shell",
+    "permalink": "/docs/category/working-with-files-via-linux-shell"
+  }
+}

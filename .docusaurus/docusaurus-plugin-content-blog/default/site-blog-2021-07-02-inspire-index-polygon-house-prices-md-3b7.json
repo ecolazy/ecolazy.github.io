@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/inspire-index-polygon-house-prices",
+  "editUrl": "https://github.com/reubenliengaard/blog/2021-07-02-inspire-index-polygon-house-prices.md",
+  "source": "@site/blog/2021-07-02-inspire-index-polygon-house-prices.md",
+  "title": "INSPIRE Index Polygon House Prices - A Map of Average Sale Prices",
+  "description": "Prepare prices data",
+  "date": "2021-07-02T00:00:00.000Z",
+  "formattedDate": "July 2, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.755,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Reuben Liengaard",
+      "title": "Maintainer",
+      "url": "https://reubenliengaard.github.io",
+      "key": "reubenliengaard"
+    }
+  ],
+  "frontMatter": {
+    "slug": "inspire-index-polygon-house-prices",
+    "title": "INSPIRE Index Polygon House Prices - A Map of Average Sale Prices",
+    "authors": "reubenliengaard",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Modeling a Spherical Solar Concentrator",
+    "permalink": "/blog/modeling-a-spherical-solar-concentrator"
+  },
+  "nextItem": {
+    "title": "Constructing a 3D Egg Shape from Regular Polygons",
+    "permalink": "/blog/constructing-a-3d-egg-shape-from-regular-polygons"
+  }
+}

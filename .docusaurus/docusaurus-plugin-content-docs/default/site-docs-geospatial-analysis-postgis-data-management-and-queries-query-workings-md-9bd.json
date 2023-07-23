@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-workings",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-workings",
+  "title": "Query workings",
+  "description": "Identify mines within 2km of given point.",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-workings.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-workings",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-workings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Land registry price paid parish",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish"
+  },
+  "next": {
+    "title": "Least cost path wildlife corridors",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors"
+  }
+}

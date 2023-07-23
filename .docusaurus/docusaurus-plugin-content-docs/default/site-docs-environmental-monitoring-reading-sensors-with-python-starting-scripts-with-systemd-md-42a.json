@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+  "id": "environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+  "title": "Starting Scripts with Systemd",
+  "description": "References",
+  "source": "@site/docs/environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd.md",
+  "sourceDirName": "environmental-monitoring/reading-sensors-with-python",
+  "slug": "/environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+  "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AC Current",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/ac-current"
+  },
+  "next": {
+    "title": "Car OBD Port",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/car-obd-port"
+  }
+}

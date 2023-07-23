@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/designing-for-comfort-and-practicality-in-motor-caravans",
+  "editUrl": "https://github.com/reubenliengaard/blog/2021-09-01-modeling-small-space-ergnomics.md",
+  "source": "@site/blog/2021-09-01-modeling-small-space-ergnomics.md",
+  "title": "Designing for Comfort and Practicality in Motor Caravans",
+  "description": "As engineers and designers, it is our duty to create structures that not only function well, but also enhance the lives of those who use them. This is particularly important in the design of motor caravans, which serve as both vehicles and living spaces for travelers. With this in mind, we set out to design a caravan that prioritized both comfort and practicality.",
+  "date": "2021-09-01T00:00:00.000Z",
+  "formattedDate": "September 1, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.7,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Reuben Liengaard",
+      "title": "Maintainer",
+      "url": "https://reubenliengaard.github.io",
+      "key": "reubenliengaard"
+    }
+  ],
+  "frontMatter": {
+    "slug": "designing-for-comfort-and-practicality-in-motor-caravans",
+    "title": "Designing for Comfort and Practicality in Motor Caravans",
+    "authors": "reubenliengaard",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Wireless Coverage at Manchester Pride - A Heatmap Analysis",
+    "permalink": "/blog/wireless-coverage-at-manchester-pride"
+  },
+  "nextItem": {
+    "title": "Parish House Prices - A Map of Average Sale Prices",
+    "permalink": "/blog/parish-house-prices"
+  }
+}

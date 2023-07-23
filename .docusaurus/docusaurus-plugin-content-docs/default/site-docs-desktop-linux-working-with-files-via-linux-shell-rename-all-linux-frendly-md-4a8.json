@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+  "id": "desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+  "title": "Rename all linux frendly",
+  "description": "This command will rename all the files in the current directory, replacing any non-alphanumeric or non-period characters with nothing.",
+  "source": "@site/docs/desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly.md",
+  "sourceDirName": "desktop-linux/working-with-files-via-linux-shell",
+  "slug": "/desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+  "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Extract all zips",
+    "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/extract-all-zips"
+  },
+  "next": {
+    "title": "Parametric Modeling",
+    "permalink": "/docs/category/parametric-modeling"
+  }
+}

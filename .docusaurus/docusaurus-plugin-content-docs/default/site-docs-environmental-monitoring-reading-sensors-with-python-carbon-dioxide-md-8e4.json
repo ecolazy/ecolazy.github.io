@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+  "id": "environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+  "title": "Carbon Dioxide",
+  "description": "Hardware",
+  "source": "@site/docs/environmental-monitoring/reading-sensors-with-python/carbon-dioxide.md",
+  "sourceDirName": "environmental-monitoring/reading-sensors-with-python",
+  "slug": "/environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+  "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Car OBD Port",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/car-obd-port"
+  },
+  "next": {
+    "title": "Thermocouple",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/thermocouple"
+  }
+}

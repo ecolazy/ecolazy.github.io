@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/reading-sensors-with-python/car-obd-port",
+  "id": "environmental-monitoring/reading-sensors-with-python/car-obd-port",
+  "title": "Car OBD Port",
+  "description": "Hardware",
+  "source": "@site/docs/environmental-monitoring/reading-sensors-with-python/car-obd-port.md",
+  "sourceDirName": "environmental-monitoring/reading-sensors-with-python",
+  "slug": "/environmental-monitoring/reading-sensors-with-python/car-obd-port",
+  "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/car-obd-port",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Starting Scripts with Systemd",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd"
+  },
+  "next": {
+    "title": "Carbon Dioxide",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/carbon-dioxide"
+  }
+}

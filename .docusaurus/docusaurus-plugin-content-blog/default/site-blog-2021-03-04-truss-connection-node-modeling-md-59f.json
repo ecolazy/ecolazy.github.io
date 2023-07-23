@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/truss-connection-node-modeling",
+  "editUrl": "https://github.com/reubenliengaard/blog/2021-03-04-truss-connection-node-modeling.md",
+  "source": "@site/blog/2021-03-04-truss-connection-node-modeling.md",
+  "title": "Truss Connection Node Modeling",
+  "description": "Docusaurus Plushie",
+  "date": "2021-03-04T00:00:00.000Z",
+  "formattedDate": "March 4, 2021",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.27,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Reuben Liengaard",
+      "title": "Maintainer",
+      "url": "https://reubenliengaard.github.io",
+      "key": "reubenliengaard"
+    }
+  ],
+  "frontMatter": {
+    "slug": "truss-connection-node-modeling",
+    "title": "Truss Connection Node Modeling",
+    "authors": "reubenliengaard",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Provisioning Cisco Cloud Wireless Controller",
+    "permalink": "/blog/provisioning-cisco-cloud-wireless-controller"
+  },
+  "nextItem": {
+    "title": "Creating 3d Buildings From Mastermap With Qgis",
+    "permalink": "/blog/creating-3d-buildings-from-mastermap-with-qgis"
+  }
+}
