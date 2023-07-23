@@ -1,15 +1,15 @@
 ---
-slug: magical-sky
-title: Magical SKy
+slug: infinite-universe
+title: Infinite Universe
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
 # Magical Sky
 
-![Docusaurus Plushie](/img/ms-1.jpg)
+![Docusaurus Plushie](/img/ms-3.png)
 
-# Magical Sky
+# Infinite Universe
 ## Method of Creating an Illusion for an Infinite Universe Utilizing LED Light Strips, Acrylic Sheets, Mirror Film, Half Mirror Film, and Dichroic Film
 
 ## Field of the Invention
@@ -43,3 +43,4 @@ The described method can be applied in various contexts, including but not limit
 In conclusion, the method for creating an illusion of an infinite universe using LED light strips, acrylic sheets, mirror film, half mirror film, and dichroic film offers a unique and visually captivating experience. The meticulous arrangement and interplay of these components result in a mesmerizing illusion that simulates the vastness and beauty of an infinite cosmic environment.
 
 It is important to note that the aforementioned description serves as an illustration of preferred embodiments of the invention. Those skilled in the art will recognize various modifications and changes that can be made to the described method while remaining within the scope and spirit of the invention. Therefore, the scope of the invention should not be limited to the specific embodiments described, but should be determined by the appended claims and their legal equivalents.
+
