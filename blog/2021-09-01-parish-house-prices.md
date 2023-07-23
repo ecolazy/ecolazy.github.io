@@ -1,7 +1,7 @@
 ---
 slug: parish-house-prices
 title: Parish House Prices - A Map of Average Sale Prices
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

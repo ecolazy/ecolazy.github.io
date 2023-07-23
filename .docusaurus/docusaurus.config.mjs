@@ -11,7 +11,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "reubenliengaard",
+  "organizationName": "ecolazy",
   "projectName": "ecolazy.github.io",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
@@ -101,7 +101,7 @@ export default {
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/reubenliengaard"
+              "href": "https://stackoverflow.com/questions/tagged/ecolazy"
             }
           ]
         },

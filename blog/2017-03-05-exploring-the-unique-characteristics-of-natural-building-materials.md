@@ -1,7 +1,7 @@
 ---
 slug: exploring-the-unique-characteristics-of-natural-building-materials
 title: Exploring the Unique Characteristics of Natural Building Materials
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

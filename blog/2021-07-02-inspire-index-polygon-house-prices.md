@@ -1,7 +1,7 @@
 ---
 slug: inspire-index-polygon-house-prices
 title: INSPIRE Index Polygon House Prices - A Map of Average Sale Prices
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: wireless-coverage-at-manchester-pride
 title: Wireless Coverage at Manchester Pride - A Heatmap Analysis
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

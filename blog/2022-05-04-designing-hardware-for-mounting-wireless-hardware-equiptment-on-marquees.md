@@ -1,7 +1,7 @@
 ---
 slug: designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees
 title:  Designing Hardware for Mounting Wireless Equipment on Marquees
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

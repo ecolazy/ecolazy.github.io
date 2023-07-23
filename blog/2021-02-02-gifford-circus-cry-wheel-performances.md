@@ -1,7 +1,7 @@
 ---
 slug: gifford-circus-cry-wheel-performances
 title: Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 ![Docusaurus Plushie](/img/stage-3.jpg)

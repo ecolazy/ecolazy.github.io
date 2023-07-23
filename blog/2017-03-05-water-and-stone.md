@@ -1,7 +1,7 @@
 ---
 slug: designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants
 title: Designing a Living Building - An Organism with a Symbiotic Relationship with Its Occupants
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

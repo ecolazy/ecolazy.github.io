@@ -1,7 +1,7 @@
 ---
 slug: provisioning-cisco-cloud-wireless-controller
 title: Provisioning Cisco Cloud Wireless Controller
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

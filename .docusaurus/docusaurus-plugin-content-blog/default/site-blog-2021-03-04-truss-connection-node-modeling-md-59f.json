@@ -23,13 +23,13 @@
       "name": "Reuben Liengaard",
       "title": "Maintainer",
       "url": "https://ecolazy.github.io",
-      "key": "reubenliengaard"
+      "key": "ecolazy"
     }
   ],
   "frontMatter": {
     "slug": "truss-connection-node-modeling",
     "title": "Truss Connection Node Modeling",
-    "authors": "reubenliengaard",
+    "authors": "ecolazy",
     "tags": [
       "hola",
       "docusaurus"

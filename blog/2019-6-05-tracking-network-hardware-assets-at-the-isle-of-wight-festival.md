@@ -1,7 +1,7 @@
 ---
 slug: tracking-network-hardware-assets-at-the-isle-of-wight-festival
 title: Tracking Network Hardware Assets at the Isle of Wight Festival
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

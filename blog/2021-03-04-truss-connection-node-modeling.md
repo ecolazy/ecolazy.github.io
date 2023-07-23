@@ -1,7 +1,7 @@
 ---
 slug: truss-connection-node-modeling
 title:  Truss Connection Node Modeling
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

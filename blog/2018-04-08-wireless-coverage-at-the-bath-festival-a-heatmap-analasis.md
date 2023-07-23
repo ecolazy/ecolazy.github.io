@@ -1,7 +1,7 @@
 ---
 slug: wireless-coverage-at-the-bath-festival-a-heatmap-analasis
 title: Wireless Coverage at the Bath Festival - A Heatmap Analysis
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

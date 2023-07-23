@@ -1,7 +1,7 @@
 ---
 slug: using-data-queries-to-enhance-wildlife-connectivity
 title: Using Data Queries to Enhance Wildlife Connectivity
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

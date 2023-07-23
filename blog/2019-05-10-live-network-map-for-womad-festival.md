@@ -1,7 +1,7 @@
 ---
 slug: live-network-map-for-womad-festival
 title: Live Network Map for WOMAD Festival - Visualizing Status and Coverage
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

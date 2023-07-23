@@ -1,7 +1,7 @@
 ---
 slug: modeling-a-spherical-solar-concentrator
 title: Modeling a Spherical Solar Concentrator
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

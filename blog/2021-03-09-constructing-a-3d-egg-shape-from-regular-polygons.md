@@ -1,7 +1,7 @@
 ---
 slug: constructing-a-3d-egg-shape-from-regular-polygons
 title: Constructing a 3D Egg Shape from Regular Polygons 
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

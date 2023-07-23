@@ -1,7 +1,7 @@
 ---
 slug: vertical-farming-for-continuous-salad-production
 title: Vertical Farming for Continuous Salad Production
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

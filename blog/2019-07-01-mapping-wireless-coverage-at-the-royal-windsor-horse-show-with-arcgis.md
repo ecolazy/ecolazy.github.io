@@ -1,7 +1,7 @@
 ---
 slug: mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis
 title: Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS
-authors: reubenliengaard
+authors: ecolazy
 tags: [hola, docusaurus]
 ---
 

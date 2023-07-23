@@ -1,7 +1,7 @@
 ---
 slug: designing-for-comfort-and-practicality-in-motor-caravans
 title: Designing for Comfort and Practicality in Motor Caravans
-authors: reubenliengaard
+authors: ecolazy
 tags: [hello, docusaurus]
 ---
 

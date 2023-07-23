@@ -19,7 +19,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'reubenliengaard', // Usually your GitHub org/user name.
+  organizationName: 'ecolazy', // Usually your GitHub org/user name.
   projectName: 'ecolazy.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/reubenliengaard',
+                href: 'https://stackoverflow.com/questions/tagged/ecolazy',
               },
             ],
           },
