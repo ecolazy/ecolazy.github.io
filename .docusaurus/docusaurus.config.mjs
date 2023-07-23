@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Reuben Liengaard",
+  "title": "ecolazy",
   "tagline": "Simplify Complexity",
   "url": "https://ecolazy.github.io",
   "baseUrl": "/",
@@ -59,7 +59,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Reuben Liengaard",
+      "title": "ecolazy",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"

@@ -48,6 +48,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/ecolazy',
+            blogPagination: 1000, 
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -72,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Reuben Liengaard',
+        title: 'ecolazy',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
