@@ -1,14 +1,20 @@
 ---
 slug: designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants
-title: Designing a Living Building - An Organism with a Symbiotic Relationship with Its Occupants
+title: Creating a Living Building: Fostering a Symbiotic Bond with Its Inhabitants
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
 
-# Designing a Living Building: An Organism with a Symbiotic Relationship with Its Occupants
+#
 
-When designing a building, it is important to consider the building as an organism that has a symbiotic relationship with its occupants. This means that the building should be organized like a system of interdependent organisms, with each organism fulfilling a specific function within the larger structure. By treating the building as an organism, we can create a dynamic and self-sustaining ecosystem that supports the health and well-being of its occupants.
+# Creating a Living Building: Fostering a Symbiotic Bond with Its Inhabitants
 
-There are many different types of organisms that can be incorporated into the design of a building. Some examples might include microalgae, which can be used for wastewater treatment and oxygen production; vermiculture, which can be used for composting and soil improvement; fish, which can be used for food production and waste management; guinea pigs, which can be used for research and education; leafy green plants, which can be used for air purification and aesthetics; and bacteria, which can be used for biological processes such as fermentation and nutrient cycling.
+When envisioning a building's design, it is paramount to view it as a living organism, nurturing a symbiotic relationship with its occupants. This entails organizing the building like a system of interdependent entities, each serving a distinct purpose within the broader structure. Embracing the building as an organism allows us to craft a dynamic and self-sustaining ecosystem that enhances the health and well-being of its inhabitants.
 
-The building itself should function like a shell or frame that provides a home for these organisms. By using environment-specific creatures, it is possible to keep different systems separate, creating an urban jungle inside the building. This approach allows for the creation of a diverse and self-sustaining ecosystem within the building, providing numerous benefits to the occupants such as improved air quality, food production, and waste management. By considering the building as an organism with a symbiotic relationship with its occupants, we can design buildings that are more dynamic, self-sustaining, and supportive of human health and well-being.
+Incorporating various organisms into the building's design opens a world of possibilities. Microalgae, for instance, can contribute to wastewater treatment and oxygen production. Vermiculture supports composting and soil enrichment, while fish offer potential for food production and waste management. Guinea pigs can serve as educational research companions, leafy green plants aid in air purification and aesthetics, and bacteria facilitate essential biological processes like fermentation and nutrient cycling.
+
+The building itself acts as a nurturing shell or frame, providing a habitat for these organisms. By employing creatures that are well-suited to their specific environment, distinct systems can be kept separate, effectively establishing an urban jungle within the building's confines. This approach fosters a diverse and self-sustaining ecosystem within the building, offering a multitude of benefits to its occupants, including enhanced air quality, food production, and waste management. By embracing the building as a living organism with a harmonious bond to its inhabitants, we can create structures that are dynamic, self-sustaining, and profoundly supportive of human health and well-being.
+
+
+
+
