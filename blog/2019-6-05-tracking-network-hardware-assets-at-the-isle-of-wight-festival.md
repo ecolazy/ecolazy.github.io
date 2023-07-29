@@ -1,6 +1,6 @@
 ---
 slug: tracking-network-hardware-assets-at-the-isle-of-wight-festival
-title: Efficient Network Hardware Asset Management at the Isle of Wight Festival
+title: Gestion Efficace des Actifs Matériels du Réseau lors du Festival de l'Île de Wight
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

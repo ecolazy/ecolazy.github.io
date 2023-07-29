@@ -1,6 +1,6 @@
 ---
 slug: constructing-a-3d-egg-shape-from-regular-polygons
-title: From Generative Algorithms to Artistic Masterpiece - Constructing a 3D Egg Sculpture
+title: Des Algorithmes Génératifs à un Chef-d'œuvre Artistique - Construire une Sculpture d'Œuf en 3D
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

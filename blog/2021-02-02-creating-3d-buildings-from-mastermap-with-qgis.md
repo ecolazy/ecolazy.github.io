@@ -1,6 +1,6 @@
 ---
 slug: creating-3d-buildings-from-mastermap-with-qgis
-title: Creating 3D Buildings from Mastermap with QGIS
+title: Création de bâtiments en 3D à partir de Mastermap avec QGIS
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

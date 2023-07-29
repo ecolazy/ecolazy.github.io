@@ -1,6 +1,6 @@
 ---
 slug: infinite-universe
-title: Infinite Universe Illusion - A Method of Immersive Visual Effects Using LED Light Strips and Optical Materials
+title: Illusion d'un Univers Infini - Méthode d'Effets Visuels Immersifs Utilisant des Bandes Lumineuses LED et des Matériaux Optiques
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

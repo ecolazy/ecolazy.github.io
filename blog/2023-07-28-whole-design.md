@@ -1,6 +1,6 @@
 ---
 slug: whole-design
-title: Innovative Integration - Crafting Functional Architectural Concepts with Visible Systems
+title: Intégration Innovante - Concevoir des Concepts Architecturaux Fonctionnels avec des Systèmes Visibles
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

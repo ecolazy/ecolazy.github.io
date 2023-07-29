@@ -1,6 +1,6 @@
 ---
 slug: wireless-coverage-at-manchester-pride
-title: Seamless Wireless Connectivity at Manchester Pride - A Heatmap Analysis
+title: Connectivité sans faille sans fil lors de la Manchester Pride - Une Analyse de Carte Thermique
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

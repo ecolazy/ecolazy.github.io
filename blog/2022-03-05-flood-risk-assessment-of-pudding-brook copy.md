@@ -1,6 +1,6 @@
 ---
 slug: flood-risk-assessment-of-pudding-brook
-title: Flood Risk Assessment of Pudding Brooke - Utilizing Topography Analysis for Informed Decision Making
+title: Évaluation du Risque d'Inondation de Pudding Brooke - Utilisation de l'Analyse Topographique pour des Décisions Éclairées
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

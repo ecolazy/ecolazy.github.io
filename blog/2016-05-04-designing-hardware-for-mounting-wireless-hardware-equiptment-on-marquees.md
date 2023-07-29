@@ -1,6 +1,6 @@
 ---
 slug: designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees
-title:  nhancing Wireless Connectivity on Outdoor Marquees - An Innovative Hardware Design
+title:  Améliorer la Connectivité sans Fil des Chapiteaux en Plein Air - Une Conception Innovante du Matériel
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

@@ -1,6 +1,6 @@
 ---
 slug: using-data-queries-to-enhance-wildlife-connectivity
-title: Enhancing Wildlife Connectivity Through Data Queries for Rewilding
+title: Améliorer la Connectivité de la Faune grâce aux Requêtes de Données pour le Réensauvagement
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

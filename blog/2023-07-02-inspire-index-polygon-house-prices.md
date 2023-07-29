@@ -1,11 +1,12 @@
 ---
 slug: inspire-index-polygon-house-prices
-title: INSPIRE Index Polygon House Prices - A Map of Average Sale Prices
+title: Prix Moyens de Vente des Maisons par Polygones de l'Indice INSPIRE - Une Carte des Prix de Vente Moyens
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
-# INSPIRE Index Polygon House Prices - A Map of Average Sale Prices
+# Prix Moyens de Vente des Maisons par Polygones de l'Indice INSPIRE - Une Carte des Prix de Vente Moyens
+
 Préparation des données de prix
 Pour analyser et visualiser efficacement les données immobilières, il est essentiel de bien organiser et traiter les données en amont. Dans ce but, notre équipe a combiné trois fichiers distincts contenant les données de prix payés en un seul fichier. Nous avons nettoyé et filtré les données en effectuant plusieurs étapes, notamment la suppression des guillemets, la sélection uniquement des lignes contenant "GL" suivi d'un nombre, l'impression de certaines colonnes, l'ajout de noms de colonnes et la suppression des lignes avec des valeurs nulles.
 

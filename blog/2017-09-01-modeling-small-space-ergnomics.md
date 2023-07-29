@@ -1,6 +1,6 @@
 ---
 slug: designing-for-comfort-and-practicality-in-motor-caravans
-title: Designing Comfortable and Practical Motor Caravans - Where Functionality Meets Enjoyment
+title: Concevoir des Camping-Cars Confortables et Pratiques - L'alliance de la Fonctionnalité et du Plaisir
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

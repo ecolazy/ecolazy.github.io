@@ -1,6 +1,6 @@
 ---
 slug: mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis
-title: Improving Wireless Connectivity at the Royal Windsor Horse Show using ArcGIS
+title: Amélioration de la Connectivité Sans Fil au Royal Windsor Horse Show grâce à ArcGIS
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

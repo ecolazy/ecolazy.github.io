@@ -1,6 +1,6 @@
 ---
 slug: wireless-coverage-at-the-bath-festival-a-heatmap-analasis
-title: Optimizing Wireless Connectivity at the Bath Festival - A Heatmap Analysis
+title: Optimisation de la Connectivité Sans Fil au Festival de Bath - Analyse de Carte de Chaleur
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

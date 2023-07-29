@@ -1,11 +1,11 @@
 ---
 slug: vertical-farming-for-continuous-salad-production
-title: Vertical Farming for Continuous Salad Production
+title: Révolutionner la Production de Salades - L'Agriculture Verticale pour une Récolte Continue
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
 
-#Révolutionner la Production de Salades : L'Agriculture Verticale pour une Récolte Continue
+# Révolutionner la Production de Salades : L'Agriculture Verticale pour une Récolte Continue
 
 Notre équipe est enthousiaste de présenter un concept novateur pour un bar à salades auto-suffisant qui exploite l'espace vertical pour une production continue et abondante de salades. Au cœur de notre idée se trouve un système de plantation ingénieux, où les jeunes pousses sont cultivées dans un treillis de fibres renforcées par des câbles en acier suspendu verticalement au-dessus du comptoir. Pour soutenir ce treillis, deux grands tambours sont positionnés stratégiquement en haut et en bas, lui permettant de tourner à une vitesse calculée en fonction de la hauteur de l'ensemble, du temps de maturation de la culture choisie et de la fréquence de récolte souhaitée. Ainsi, une jeune pousse plantée en bas atteindra sa maturité et sera prête à être récoltée lorsqu'elle revient en bas, créant ainsi un cycle de récolte perpétuel. En adoptant cette approche innovante, le bar à salades peut maintenir un approvisionnement constant en produits frais sans recourir aux méthodes traditionnelles de l'agriculture terrestre.
 

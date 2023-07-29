@@ -1,6 +1,6 @@
 ---
 slug: parish-house-prices
-title: Parish House Prices - A Map of Average Sale Prices
+title: Cartographie des Prix des Maisons par Paroisse - Une Carte des Prix de Vente Moyens
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

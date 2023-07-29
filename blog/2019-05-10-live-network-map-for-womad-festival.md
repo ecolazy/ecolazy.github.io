@@ -1,6 +1,6 @@
 ---
 slug: live-network-map-for-womad-festival
-title: Real-Time Map of WOMAD Festival Network - Monitoring Status and Coverage
+title: Carte en Temps Réel du Réseau au Festival WOMAD - Visualisation de l'État et de la Couverture
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
