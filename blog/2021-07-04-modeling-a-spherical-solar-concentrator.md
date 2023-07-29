@@ -1,6 +1,6 @@
 ---
 slug: modeling-a-spherical-solar-concentrator
-title: Concentrateur Solaire Sphérique : Maximiser la Concentration Solaire
+title: Concentrateur Solaire Sphérique - Maximiser la Concentration Solaire
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

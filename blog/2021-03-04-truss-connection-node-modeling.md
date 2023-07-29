@@ -1,6 +1,6 @@
 ---
 slug: truss-connection-node-modeling
-title:  Nœud Structural Dodécaèdre Innovant : Amélioration de la Flexibilité et de la Résistance du Treillis
+title:  Nœud Structural Dodécaèdre Innovant - Amélioration de la Flexibilité et de la Résistance du Treillis
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

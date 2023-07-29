@@ -1,6 +1,6 @@
 ---
 slug: gifford-circus-cry-wheel-performances
-title: Gifford Circus - Spectacles Cyr Wheel : Une Scène Circulaire Modulaire Sur Mesure
+title: Gifford Circus - Spectacles Cyr Wheel - Une Scène Circulaire Modulaire Sur Mesure
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
