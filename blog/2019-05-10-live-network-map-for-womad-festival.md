@@ -1,17 +1,54 @@
 ---
 slug: live-network-map-for-womad-festival
-title: Live Network Map for WOMAD Festival - Visualizing Status and Coverage
+title: Real-Time Map of WOMAD Festival Network - Monitoring Status and Coverage
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
-# Live Network Map for WOMAD Festival - Visualizing Status and Coverage
+# Carte en Temps Réel du Réseau au Festival WOMAD - Visualisation de l'État et de la Couverture
 
-The web application we developed allows users to access and update the location data for network devices. When the location of a device needs to be recorded, the user simply enters the device's MAC address into the app. The MAC address is then checked against a list of available device MAC addresses in the database to verify its authenticity. If the MAC address exists in the database, it is marked as "deployed" and the coordinates of the user's phone, on which the update was made, are added to the latitude and longitude columns. If the MAC address is entered incorrectly or does not correspond to a device in the database, the app user is notified and asked to enter a different MAC address.
+Notre application web permet aux utilisateurs d'accéder et de mettre à jour les données de localisation des appareils du réseau. Lorsqu'il est nécessaire d'enregistrer la localisation d'un appareil, l'utilisateur entre simplement l'adresse MAC de l'appareil dans l'application. L'adresse MAC est ensuite vérifiée par rapport à une liste d'adresses MAC disponibles dans la base de données pour en assurer l'authenticité. Si l'adresse MAC existe dans la base de données, elle est marquée comme "déployée", et les coordonnées du téléphone de l'utilisateur, sur lequel la mise à jour a été effectuée, sont ajoutées aux colonnes de latitude et de longitude. Si l'adresse MAC est entrée de manière incorrecte ou ne correspond à aucun appareil dans la base de données, l'utilisateur est informé et invité à saisir une autre adresse MAC.
 
-The deployed devices are displayed on a map in real-time, allowing users to easily view and locate them. Each device can be clicked on to view information such as its device type, MAC address, IP address, and more. Users also have the option to select a device for deletion, which changes the corresponding value in the "deployment status" column to "false" and removes the latitude and longitude position values from the database.
+Les appareils déployés sont affichés en temps réel sur une carte, permettant aux utilisateurs de les visualiser et de les localiser facilement. Chaque appareil peut être cliqué pour afficher des informations telles que son type, son adresse MAC, son adresse IP, et bien plus encore. Les utilisateurs ont également la possibilité de sélectionner un appareil à supprimer, ce qui modifie la valeur correspondante dans la colonne "état de déploiement" pour la définir sur "faux" et supprime les valeurs de position de latitude et de longitude de la base de données.
 
-To aid in testing and debugging the app, we also developed a BASH script that produces fake data for testing purposes. This script generates a CSV file containing random MAC addresses, asset tags, device models, and locations, which can then be uploaded to the database for testing purposes. By using this script, we were able to simulate different scenarios and ensure that the app was functioning correctly before deploying it in a live environment.
+Afin de faciliter les tests et le débogage de l'application, nous avons également développé un script BASH qui génère des données factices à des fins de test. Ce script génère un fichier CSV contenant des adresses MAC, des étiquettes d'actif, des modèles d'appareils et des emplacements aléatoires, qui peuvent ensuite être téléchargés dans la base de données à des fins de test. En utilisant ce script, nous avons pu simuler différentes situations pour vérifier le bon fonctionnement de l'application avant de la déployer dans un environnement réel.
+
+
+
+``` bash
+#!/bin/bash
+
+# Generate 100 random devices
+for i in {1..100}
+do
+  # Generate a random MAC address
+  mac=$(c=0; until [ $c -eq "6" ]; do printf ":%02X" $(( $RANDOM % 256 )); let c=c+1; done | sed s/://)
+
+  # Generate a random asset number
+  asset=$(( $RANDOM % 9999 + 1000 ))
+
+  # Choose a random location from the locations.txt file
+  location=$(shuf -n 1 locations.txt)
+
+  # Choose a random model from the models.txt file
+  model=$(shuf -n 1 models.txt)
+
+  # Output the device information to a CSV file
+  echo "$asset, $mac, $model, $location"
+done > devices.csv
+```
+
+# Real-Time Map of WOMAD Festival Network - Monitoring Status and Coverage
+
+Our web application provides users with access to live network device data and the ability to update device locations. When a device's location needs recording, users simply input the device's MAC address into the app. The app checks the MAC address against a list of available device MAC addresses in the database to ensure authenticity. If the MAC address is verified, it is marked as "deployed," and the user's phone coordinates (from the update) are added to the latitude and longitude columns. In case of an incorrect MAC address or one not matching any device in the database, the user is notified and prompted to enter a different MAC address.
+
+Deployed devices are dynamically displayed on a real-time map, enabling users to easily view and locate them. Clicking on a device reveals detailed information such as device type, MAC address, IP address, and more. Additionally, users can select a device for deletion, updating the corresponding value in the "deployment status" column to "false" and removing latitude and longitude position data from the database.
+
+For app testing and debugging purposes, we designed a BASH script to generate synthetic data. This script produces a CSV file with random MAC addresses, asset tags, device models, and locations, facilitating easy testing by uploading the data to the database. By using this script, we simulated various scenarios to ensure the app's functionality before deploying it in a live environment.
+
+
+
+
 
 ``` bash
 #!/bin/bash

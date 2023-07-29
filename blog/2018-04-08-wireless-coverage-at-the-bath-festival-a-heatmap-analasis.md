@@ -1,11 +1,23 @@
 ---
 slug: wireless-coverage-at-the-bath-festival-a-heatmap-analasis
-title: Wireless Coverage at the Bath Festival - A Heatmap Analysis
+title: Optimizing Wireless Connectivity at the Bath Festival - A Heatmap Analysis
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
 
-# 
+# Optimisation de la Connectivité Sans Fil au Festival de Bath - Analyse de Carte de Chaleur
+
+Lors du Festival de Bath, notre équipe a déployé stratégiquement des points d'accès pour offrir une connectivité WiFi aux participants de l'événement. Afin d'assurer une couverture étendue et fiable, chaque point d'accès a été relié à un secteur sur un bâtiment adjacent via une liaison sans fil point-à-point. En plus de cela, nous avons mis en place des connexions Internet redondantes pour chaque point d'accès en combinant une ligne ADSL et une antenne satellite temporaire sur le toit.
+
+Pour évaluer les performances des points d'accès et identifier les zones avec une faible force de signal ou des zones mortes sans WiFi, nous avons effectué une analyse détaillée de la force du signal géolocalisé à l'aide d'une application Android. Les données collectées ont été organisées dans Excel avant d'être importées dans ArcGIS, où nous avons généré une carte de chaleur complète. Cette carte de chaleur a été superposée sur le plan du site, fournissant une représentation visuelle de la force du signal dans l'ensemble du site du festival.
+
+Grâce à une analyse minutieuse des données, nous avons réussi à identifier les zones avec des signaux faibles ou des zones potentielles sans WiFi. Forts de ces informations précieuses, nous avons pris des mesures proactives pour améliorer la couverture dans ces zones, garantissant aux participants du festival un accès fluide au réseau WiFi pendant toute la durée de l'événement. La combinaison de liaisons sans fil point-à-point, de lignes ADSL et de connexions temporaires par satellite nous a permis de fournir une expérience Internet fiable et robuste à tous les festivaliers, répondant à leurs besoins de connectivité de manière dynamique et redondante.
+
+
+
+
+
+ 
 
 # Optimizing Wireless Connectivity at the Bath Festival - A Heatmap Analysis
 
