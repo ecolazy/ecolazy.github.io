@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecolazy.github.io/blog</id>
     <title>ecolazy Blog</title>
-    <updated>2023-07-29T21:00:48.000Z</updated>
+    <updated>2023-07-29T21:15:04.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecolazy.github.io/blog"/>
     <subtitle>ecolazy Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Constructing a 3D Egg Shape from Regular Polygons]]></title>
         <id>https://ecolazy.github.io/blog/constructing-a-3d-egg-shape-from-regular-polygons</id>
         <link href="https://ecolazy.github.io/blog/constructing-a-3d-egg-shape-from-regular-polygons"/>
-        <updated>2023-07-29T21:00:48.000Z</updated>
+        <updated>2023-07-29T21:15:04.000Z</updated>
         <summary type="html"><![CDATA[As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.]]></summary>
         <content type="html"><![CDATA[<p>As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.</p><p>The first step in our process was to understand the constraints and requirements of the project. The artist provided us with a set of parameters, including the desired size and shape of the sculpture, as well as the materials that would be used to construct it. With this information in hand, we began to explore different algorithmic approaches that could be used to generate a range of possible geometries.</p><p>We turned to Grasshopper 3D, a powerful tool for generative design that allows users to define and manipulate geometry through a series of algorithmic rules. Using a combination of mathematical functions and input from the artist, we were able to generate a range of potential geometries for the egg sculpture.</p><p>To narrow down our options and select the most suitable geometry, we used a variety of methods to evaluate and compare the different options. We considered factors such as structural integrity, ease of fabrication, and aesthetic appeal, and used computer simulations and physical prototypes to test the performance of the different geometries.</p><p>In the end, we were able to identify a geometry that met all of the requirements and constraints of the project. The artist was pleased with the result and used our geometry to create a stunning egg sculpture that was well-received by the public.</p><p>This project was a rewarding and exciting example of the ways in which engineering and design can intersect with the arts. By using generative algorithms and a collaborative approach, we were able to help an artist realize their vision and create a beautiful work of art.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/egg-1-2edd5330f8680fdf901b10dfe36b1e4f.jpg" width="655" height="527" class="img_ev3q"></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/egg-2-128d75277af2454dd729a83dce079a5f.jpg" width="1209" height="512" class="img_ev3q">---
 slug: designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees
@@ -424,24 +424,10 @@ The solar concentrator is used to heat water.</p><h2 class="anchor anchorWithSti
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Hardware for Mounting Wireless Equipment on Marquees]]></title>
-        <id>https://ecolazy.github.io/blog/designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees</id>
-        <link href="https://ecolazy.github.io/blog/designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees"/>
-        <updated>2016-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wireless access points and point-to-point links have been installed on the aluminum extrusion structural elements of outdoor event marquees using a innovative system that employs a keeder rail. The keeder rail accommodates a cylindrical metal piece with a threaded hole drilled perpendicular to its length, which can be easily secured in place by turning a large, flat disk with a threaded hole in the center. This setup supports a pipe clamp that is designed to fit standard aluminum poles, with two clamps used per pole to securely anchor the pole vertically on the side of the tent. This innovative method of installation allows for reliable and secure connectivity during events, while also maintaining the aesthetic integrity of the marquees.]]></summary>
-        <content type="html"><![CDATA[<p>Wireless access points and point-to-point links have been installed on the aluminum extrusion structural elements of outdoor event marquees using a innovative system that employs a keeder rail. The keeder rail accommodates a cylindrical metal piece with a threaded hole drilled perpendicular to its length, which can be easily secured in place by turning a large, flat disk with a threaded hole in the center. This setup supports a pipe clamp that is designed to fit standard aluminum poles, with two clamps used per pole to securely anchor the pole vertically on the side of the tent. This innovative method of installation allows for reliable and secure connectivity during events, while also maintaining the aesthetic integrity of the marquees.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/clamp-2-e4b9c5f251ca653bb54536f8fbeac9e2.jpg" width="4032" height="3024" class="img_ev3q"></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/clamp-3-bf41914d25c1ad3f8d67fd43bece0453.jpg" width="3120" height="4160" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>ecolazy</name>
-            <uri>https://ecolazy.github.io</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Constructing a 3D Egg Shape from Regular Polygons]]></title>
         <id>https://ecolazy.github.io/blog/constructing-a-3d-egg-shape-from-regular-polygons</id>
         <link href="https://ecolazy.github.io/blog/constructing-a-3d-egg-shape-from-regular-polygons"/>
-        <updated>2016-03-09T00:00:00.000Z</updated>
+        <updated>2016-05-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.]]></summary>
         <content type="html"><![CDATA[<p>As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.</p><p>The first step in our process was to understand the constraints and requirements of the project. The artist provided us with a set of parameters, including the desired size and shape of the sculpture, as well as the materials that would be used to construct it. With this information in hand, we began to explore different algorithmic approaches that could be used to generate a range of possible geometries.</p><p>We turned to Grasshopper 3D, a powerful tool for generative design that allows users to define and manipulate geometry through a series of algorithmic rules. Using a combination of mathematical functions and input from the artist, we were able to generate a range of potential geometries for the egg sculpture.</p><p>To narrow down our options and select the most suitable geometry, we used a variety of methods to evaluate and compare the different options. We considered factors such as structural integrity, ease of fabrication, and aesthetic appeal, and used computer simulations and physical prototypes to test the performance of the different geometries.</p><p>In the end, we were able to identify a geometry that met all of the requirements and constraints of the project. The artist was pleased with the result and used our geometry to create a stunning egg sculpture that was well-received by the public.</p><p>This project was a rewarding and exciting example of the ways in which engineering and design can intersect with the arts. By using generative algorithms and a collaborative approach, we were able to help an artist realize their vision and create a beautiful work of art.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/egg-1-2edd5330f8680fdf901b10dfe36b1e4f.jpg" width="655" height="527" class="img_ev3q"></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/egg-2-128d75277af2454dd729a83dce079a5f.jpg" width="1209" height="512" class="img_ev3q">---
 slug: designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees
@@ -535,6 +521,20 @@ The described method can be applied in various contexts, including but not limit
             <uri>https://ecolazy.github.io</uri>
         </author>
         <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Hardware for Mounting Wireless Equipment on Marquees]]></title>
+        <id>https://ecolazy.github.io/blog/designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees</id>
+        <link href="https://ecolazy.github.io/blog/designing-hardware-for-mounting-wireless-hardware-equiptment-on-marquees"/>
+        <updated>2016-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wireless access points and point-to-point links have been installed on the aluminum extrusion structural elements of outdoor event marquees using a innovative system that employs a keeder rail. The keeder rail accommodates a cylindrical metal piece with a threaded hole drilled perpendicular to its length, which can be easily secured in place by turning a large, flat disk with a threaded hole in the center. This setup supports a pipe clamp that is designed to fit standard aluminum poles, with two clamps used per pole to securely anchor the pole vertically on the side of the tent. This innovative method of installation allows for reliable and secure connectivity during events, while also maintaining the aesthetic integrity of the marquees.]]></summary>
+        <content type="html"><![CDATA[<p>Wireless access points and point-to-point links have been installed on the aluminum extrusion structural elements of outdoor event marquees using a innovative system that employs a keeder rail. The keeder rail accommodates a cylindrical metal piece with a threaded hole drilled perpendicular to its length, which can be easily secured in place by turning a large, flat disk with a threaded hole in the center. This setup supports a pipe clamp that is designed to fit standard aluminum poles, with two clamps used per pole to securely anchor the pole vertically on the side of the tent. This innovative method of installation allows for reliable and secure connectivity during events, while also maintaining the aesthetic integrity of the marquees.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/clamp-2-e4b9c5f251ca653bb54536f8fbeac9e2.jpg" width="4032" height="3024" class="img_ev3q"></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/clamp-3-bf41914d25c1ad3f8d67fd43bece0453.jpg" width="3120" height="4160" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>ecolazy</name>
+            <uri>https://ecolazy.github.io</uri>
+        </author>
+        <category label="hola" term="hola"/>
         <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
