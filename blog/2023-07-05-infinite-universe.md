@@ -1,15 +1,14 @@
 ---
 slug: infinite-universe
-title: Infinite Universe
+title: Infinite Universe Illusion: A Method of Immersive Visual Effects Using LED Light Strips and Optical Materials
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
-# Magical Sky
+# Infinite Universe Illusion: A Method of Immersive Visual Effects Using LED Light Strips and Optical Materials
 
 ![Docusaurus Plushie](/img/ms-3.png)
 
-# Infinite Universe
 ## Method of Creating an Illusion for an Infinite Universe Utilizing LED Light Strips, Acrylic Sheets, Mirror Film, Half Mirror Film, and Dichroic Film
 
 ## Field of the Invention

@@ -1,11 +1,11 @@
 ---
 slug: vectorizing
-title: Vectorizing Midjourney Images for Laser Cutting
+title: From Images to Vector Art - Laser Cutting with Midjourney and AI Upscaling
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
-# Vectorizing Midjourney Images for Laser Cutting
+# From Images to Vector Art: Laser Cutting with Midjourney and AI Upscaling
 ## Step 1: Generate image with Midjourney
 
 Prompt: peter pans london, black silhouette of victorian buildings, occasional shrubs growing from buildings, big ben --ar 3:1

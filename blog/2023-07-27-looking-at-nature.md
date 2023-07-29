@@ -1,11 +1,11 @@
 ---
 slug: looking-at-nature
-title: Looking At Nature
+title: Harmony of Natural Building Materials - A Journey of Exploration and Inspiration
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
 
-# Looking at Nature 
+# Harmony of Natural Building Materials: A Journey of Exploration and Inspiration
 The inspiration for my design approach came from a desire to work with natural building materials. I believed that by truly understanding the unique character and qualities of each material, I could unlock unexplored possibilities. My aim was to connect with the essence of each material and place it thoughtfully within the building's structure. To determine the right placement, I looked at where these materials were naturally found in the landscape.
 
 In an idealized cross-section of the landscape, stone was predominantly underground, often found in association with water, while wood was abundant on the surface and high in the air. I wanted to sense the mood of these places. Through experimenting with lightweight hazel structures, I gained a better understanding of the combination of wood and air. This sparked my curiosity about the mysterious subterranean realm of stone and water. Consequently, I decided to embark on the adventure of excavating a tunnel into the hillside to explore further. Although my hope was to discover a natural cave, the largest cavity I found was disappointingly small.
