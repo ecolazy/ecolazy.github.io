@@ -45,7 +45,7 @@ mkdir vectorized_svg
 for file in *.png; do
   echo "Vectorizing $file to SVG"
   curl https://vectorizer.ai/api/v1/vectorize \
-   -u vkvd3ncf3r38bkb:9pakh378atnl4j8elc9mlnugr1f3kbjov77fo1qfa8a6g53su5k0 \
+   -u <API KEY> \
    -F image=@$file \
    -F "processing.max_colors=2" \
    -o vectorized_svg/$(basename $file).svg
