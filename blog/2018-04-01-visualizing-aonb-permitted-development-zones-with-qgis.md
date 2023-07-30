@@ -1,10 +1,10 @@
 ---
 slug: visualizing-aonb-permitted-development-zones-with-qgis
-title: Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS - Optimisation de l'Analyse de Site
+title: "Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS - Optimisation de l'Analyse de Site"
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
-# Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS : Optimisation de l'Analyse de Site
+# Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS : Optimisation de l Analyse de Site
 
 Nous utilisons fréquemment des logiciels SIG pour identifier les zones les plus propices au développement immobilier. Une méthode que nous employons consiste à importer des polygones topographiques d'OS MasterMap dans le logiciel et à utiliser l'outil de tampon pour créer des lignes autour de ces polygones. Cela nous permet de visualiser les zones où la construction est autorisée en fonction de diverses restrictions de zonage et réglementaires.
 
