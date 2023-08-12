@@ -1,23 +1,9 @@
 ---
 slug: designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants
-title: Créer un Bâtiment Vivant - Favoriser une Relation Symbiotique avec Ses Habitants
+title: Creating a Living Building - Fostering a Symbiotic Bond with Its Inhabitants
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
-
-
-#  Créer un Bâtiment Vivant : Favoriser une Relation Symbiotique avec Ses Habitants
-
-Lorsque l'on imagine la conception d'un bâtiment, il est primordial de le considérer comme un organisme vivant, nourrissant une relation symbiotique avec ses occupants. Cela implique d'organiser le bâtiment comme un système d'entités interdépendantes, chacune servant un objectif distinct au sein de la structure globale. En adoptant le bâtiment comme un organisme, nous pouvons créer un écosystème dynamique et autonome qui améliore la santé et le bien-être de ses habitants.
-
-L'intégration de divers organismes dans la conception du bâtiment ouvre un monde de possibilités. Les microalgues, par exemple, peuvent contribuer au traitement des eaux usées et à la production d'oxygène. La vermiculture soutient le compostage et l'enrichissement du sol, tandis que les poissons offrent des opportunités en matière de production alimentaire et de gestion des déchets. Les cochons d'Inde peuvent servir de compagnons de recherche éducatifs, les plantes vertes contribuent à la purification de l'air et à l'esthétique, et les bactéries facilitent des processus biologiques essentiels tels que la fermentation et le cycle des nutriments.
-
-Le bâtiment lui-même agit comme une coquille ou une structure nourrissante, offrant un habitat à ces organismes. En utilisant des créatures bien adaptées à leur environnement spécifique, des systèmes distincts peuvent être maintenus séparés, établissant ainsi efficacement une jungle urbaine au sein de l'enceinte du bâtiment. Cette approche favorise un écosystème diversifié et autonome à l'intérieur du bâtiment, offrant de nombreux avantages à ses occupants, notamment une meilleure qualité de l'air, une production alimentaire et une gestion des déchets améliorées. En adoptant le bâtiment comme un organisme vivant avec un lien harmonieux avec ses habitants, nous pouvons créer des structures dynamiques, autonomes et profondément favorables à la santé et au bien-être humains.
-
-
-
-
-
 
 # Creating a Living Building: Fostering a Symbiotic Bond with Its Inhabitants
 

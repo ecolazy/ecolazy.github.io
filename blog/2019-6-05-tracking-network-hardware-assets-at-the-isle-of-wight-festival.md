@@ -1,26 +1,9 @@
 ---
 slug: tracking-network-hardware-assets-at-the-isle-of-wight-festival
-title: Gestion Efficace des Actifs Matériels du Réseau lors du Festival de l'Île de Wight
+title: Efficient Network Hardware Asset Management at the Isle of Wight Festival
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
-
-# Gestion Efficace des Actifs Matériels du Réseau lors du Festival de l'Île de Wight
-
-Le Festival de l'Île de Wight 2019, qui s'est tenu au parc de Seaclose, a été un événement de grande envergure avec des arènes et des champs s'étendant sur 3 km. Le déploiement de l'infrastructure du réseau était une tâche complexe visant à assurer une connectivité sans faille sur l'ensemble du site. Pour y parvenir, des armoires réseau ont été installées stratégiquement dans chaque arène, interconnectées par des kilomètres de câbles à fibre optique. Ces armoires étaient également reliées à de multiples connexions ADSL liées entre elles, offrant une connexion Internet robuste et fiable.
-
-Pour étendre la connectivité à l'intérieur de chaque arène, de plus petits commutateurs réseau ont été placés à moins de 100 mètres des armoires. Les zones situées au-delà de cette distance étaient connectées à l'aide de liens sans fil point-à-point, montés sur des poteaux fixés aux côtés des tentes ou émis à travers l'arène depuis des secteurs sans fil montés sur des nacelles. Aux emplacements éloignés, des récepteurs sans fil point-à-point étaient fixés aux côtés des tentes pour capter ces signaux.
-
-Outre l'infrastructure du réseau, un système de vidéosurveillance complet était essentiel pour garantir la sécurité des participants. À cette fin, chaque arène était équipée d'au moins une nacelle munie d'une caméra de vidéosurveillance panoramique-inclinable-zoom. Des caméras supplémentaires étaient installées sur des poteaux d'échafaudage, des arches d'accès et des côtés des scènes. Le WiFi était également disponible dans les zones d'hébergement et de camping, tandis que des bureaux temporaires étaient équipés de WiFi et de téléphones VoIP pour une communication interne et externe efficace.
-
-Pour faciliter le déploiement et la gestion du réseau, nous avons utilisé divers outils et ressources. Par exemple, nous avons utilisé l'outil 'Aligner Raster' de QGIS pour géoréférencer une image haute définition du plan du site, que nous avons ensuite téléchargée sur Mapbox pour créer une carte web basique avec Leaflet.js. Cette carte web utilisait la géolocalisation du téléphone hôte pour positionner des marqueurs, facilitant ainsi l'identification de l'emplacement exact des tentes nécessitant une connexion. Nous avons également utilisé l'application 'Map Marker' sur Android pour localiser et déployer rapidement les dispositifs réseau.
-
-Après l'événement, la carte s'est avérée inestimable pour localiser et récupérer tout le matériel. Cela s'est avéré particulièrement utile car le personnel chargé d'enquêter sur les pannes ou de récupérer le matériel était souvent différent de celui qui l'avait déployé, rendant difficile la localisation des dispositifs sans une carte à jour indiquant leurs emplacements et connexions précises. En utilisant cette carte, nous avons pu rapidement retracer les pannes du réseau et nous assurer que tout le matériel était correctement pris en compte. Dans l'ensemble, le déploiement et la gestion du réseau lors du Festival de l'Île de Wight ont été une réussite et un défi complexe, contribuant au bon déroulement de l'événement.
-
-
-
-
-
 
 # Efficient Network Hardware Asset Management at the Isle of Wight Festival
 

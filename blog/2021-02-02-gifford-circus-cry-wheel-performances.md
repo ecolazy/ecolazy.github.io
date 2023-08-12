@@ -1,38 +1,11 @@
 ---
 slug: gifford-circus-cry-wheel-performances
-title: Gifford Circus - Spectacles Cyr Wheel - Une Scène Circulaire Modulaire Sur Mesure
+title: Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
 ![Docusaurus Plushie](/img/stage-3.jpg)
 ![Docusaurus Plushie](/img/stage-4.jpg)
-
-
-# Gifford Circus - Spectacles Cyr Wheel : Une Scène Circulaire Modulaire Sur Mesure
-
-Nous avons été mandatés pour concevoir et construire une scène circulaire pour des performances de Cyr Wheel au Gifford's Circus. La scène devait répondre à plusieurs exigences : avoir un diamètre de 6 mètres, pouvoir être démontée en morceaux suffisamment petits pour passer à travers une porte de 2,6 mètres de large, supporter le poids des artistes, être facilement assemblée par deux personnes en peu de temps (chaque panneau ne pesant pas plus de 50 kg), être plate et de niveau sur un terrain accidenté, et être suffisamment durable pour résister aux manipulations brusques et à l'humidité de la vie du cirque.
-
-Pour atteindre ces objectifs, nous avons envisagé diverses conceptions pour le cercle et avons finalement opté pour un panneau composite composé d'un noyau en XPS pris en sandwich entre deux couches de fibres de verre extrêmement résistantes, avec un revêtement antidérapant. Le matériau a été découpé dans les formes nécessaires à l'aide d'une découpeuse à fil chaud avec un profil rectangulaire, et la mousse a été retirée des bords d'assemblage, ne laissant que le matériau extérieur en fibres de verre. De l'adhésif a été appliqué, et des extrusions en aluminium ont été enfoncées dans les bords des panneaux. L'aluminium protégeait les bords, soutenait les bords pour éviter toute déviation et fournissait des fentes pour les structures de pieds amovibles qui reliaient les panneaux entre eux.
-
-Les structures de pieds étaient placées à l'intersection de trois panneaux et étaient constituées de trois pièces de section en boîte en acier ajustées dans des canaux en U en aluminium et soudées à des intervalles de 120 degrés pour former une croix tridirectionnelle. Un trou était laissé à l'intersection, dans lequel un tube fileté était soudé. Un boulon hexagonal interne ou une longue vis à bout plat avec une plaque de pied en dessous était vissé dans le tube et pouvait être ajusté depuis le dessus à travers un petit trou dans la scène à l'aide d'une clé allen montée sur un tournevis à percussion. Cette disposition permettait un processus d'assemblage rapide et facile, les pieds étant étendus jusqu'à toucher le sol pour niveler la scène. Les pièces étaient maintenues ensemble avec des sections en acier en boîte intérieures courbées sur les bords extérieurs courbes, et une grande sangle de tension était utilisée pour envelopper toute la structure et comprimer le cercle vers l'intérieur, tirant ainsi toutes les pièces ensemble.
-
-Dans l'ensemble, la conception et la construction de la scène circulaire ont été un projet difficile mais gratifiant. Nous avons pu répondre à toutes les exigences fixées par le client et créer une scène durable, stable, facile à assembler et à transporter.
-
-
-
-![Docusaurus Plushie](/img/stage-7.jpg)
-
-![Docusaurus Plushie](/img/stage-8.jpg)
-![Docusaurus Plushie](/img/stage-2.jpg)
-
-![Docusaurus Plushie](/img/stage-6.jpg)
-
-![Docusaurus Plushie](/img/stage-1.jpg)
-
-![Docusaurus Plushie](/img/stage-10.jpg)
-
-
-
 
 # Gifford Circus Cyr Wheel Performances: A Custom Modular Circular Stage
 

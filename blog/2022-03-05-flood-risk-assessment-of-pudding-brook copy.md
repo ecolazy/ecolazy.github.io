@@ -1,20 +1,9 @@
 ---
 slug: flood-risk-assessment-of-pudding-brook
-title: Évaluation du Risque d'Inondation de Pudding Brooke - Utilisation de l'Analyse Topographique pour des Décisions Éclairées
+title: Flood Risk Assessment of Pudding Brooke - Utilizing Topography Analysis for Informed Decision Making
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
-
-# Évaluation du Risque d'Inondation de Pudding Brooke : Utilisation de l'Analyse Topographique pour des Décisions Éclairées
-
-Pour évaluer de manière exhaustive le risque d'inondation de Pudding Brooke, nous avons utilisé des tuiles de Modèle Numérique de Terrain LIDAR dans QGIS pour générer des polygones de contours à des intervalles de 0,25 mètre. Ces polygones ont ensuite été colorés en fonction de leur élévation, offrant une visualisation claire de la topographie de la région et mettant en évidence les zones potentiellement sujettes aux inondations.
-
-Un aspect essentiel de l'évaluation du risque d'inondation était l'identification d'emplacements appropriés pour les dépendances. Notre objectif était de veiller à ce que toute nouvelle structure soit stratégiquement située en hauteur, réduisant ainsi sa vulnérabilité aux inondations. Grâce à un examen minutieux des polygones de contours, nous avons sélectionné des sites appropriés situés sur le terrain le plus élevé disponible.
-
-En exploitant les tuiles de Modèle Numérique de Terrain LIDAR et les polygones de contours, nous avons obtenu des évaluations précises du risque d'inondation et pris des décisions éclairées concernant l'emplacement des dépendances. Cette analyse topographique méticuleuse nous a permis de protéger les nouvelles structures contre les inondations potentielles, assurant ainsi la sécurité et la résilience des développements à Pudding Brooke.
-
-
-![Docusaurus Plushie](/img/pudding-brook.jpg)
 
 # Flood Risk Assessment of Pudding Brooke: Utilizing Topography Analysis for Informed Decision Making
 

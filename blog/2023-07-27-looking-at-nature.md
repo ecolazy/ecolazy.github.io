@@ -1,26 +1,9 @@
 ---
 slug: looking-at-nature
-title: Harmonie des Matériaux Naturels de Construction - Un Voyage d'Exploration et d'Inspiration
+title: Harmony of Natural Building Materials: A Journey of Exploration and Inspiration
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
-# Harmonie des Matériaux Naturels de Construction : Un Voyage d'Exploration et d'Inspiration
-
-L'inspiration pour mon approche de conception est née du désir de travailler avec des matériaux naturels de construction. Je croyais qu'en comprenant véritablement le caractère unique et les qualités de chaque matériau, je pourrais débloquer des possibilités inexplorées. Mon objectif était de me connecter à l'essence de chaque matériau et de l'incorporer avec réflexion dans la structure du bâtiment. Pour déterminer le bon emplacement, j'ai observé où ces matériaux se trouvaient naturellement dans le paysage.
-
-Dans une coupe transversale idéalisée du paysage, la pierre se trouvait principalement sous terre, souvent en association avec l'eau, tandis que le bois était abondant à la surface et en hauteur dans l'air. Je voulais ressentir l'atmosphère de ces endroits. En expérimentant avec des structures légères en noisetier, j'ai mieux compris l'association du bois et de l'air. Cela a éveillé ma curiosité pour le mystérieux royaume souterrain de la pierre et de l'eau. En conséquence, j'ai décidé de me lancer dans l'aventure d'excaver un tunnel dans le flanc de la colline pour explorer davantage. Bien que j'espérais découvrir une grotte naturelle, la plus grande cavité que j'ai trouvée était décevante par sa petitesse.
-
-Malgré les défis et les moments de peur, le processus était plaisant et avait l'air d'une véritable aventure. Pour soutenir le toit du tunnel, nous avons finalement construit des murs porteurs en blocs de béton avec des linteaux en béton. Cependant, cette construction a compromis le charme rustique du tunnel, le transformant en un conduit sombre en béton et réduisant l'espace disponible.
-
-Entre les couches de bois et de pierre, mon diagramme en coupe suggérait une troisième couche : un mince lit de boue, la source de toute vie. Bien que je n'avais pas approfondi la recherche sur la boue en tant que matériau de construction comme les autres, j'ai étudié de manière approfondie son rôle dans le soutien de la vie organique. Ces découvertes sont détaillées dans la section de conception globale.
-
-La nature légère et aérée du bois m'a amené à l'imaginer comme étant adaptée pour les quartiers de sommeil du bâtiment, offrant un grenier sec et chaleureux. La couche intermédiaire, le rez-de-chaussée, accueillerait les activités liées à la vie quotidienne, y compris la cuisine, les toilettes, et des espaces pour des activités organiques et la production alimentaire. Enfin, j'imaginais des espaces souterrains en pierre en dessous du bâtiment, dont la destination reste à déterminer.
-
-
-
-
-
-
 
 # Harmony of Natural Building Materials: A Journey of Exploration and Inspiration
 The inspiration for my design approach came from a desire to work with natural building materials. I believed that by truly understanding the unique character and qualities of each material, I could unlock unexplored possibilities. My aim was to connect with the essence of each material and place it thoughtfully within the building's structure. To determine the right placement, I looked at where these materials were naturally found in the landscape.

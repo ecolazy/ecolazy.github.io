@@ -1,24 +1,9 @@
 ---
 slug: mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis
-title: Amélioration de la Connectivité Sans Fil au Royal Windsor Horse Show grâce à ArcGIS
+title: Improving Wireless Connectivity at the Royal Windsor Horse Show using ArcGIS
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
-# Amélioration de la Connectivité Sans Fil au Royal Windsor Horse Show grâce à ArcGIS
-
-Le Royal Windsor Horse Show, le plus grand spectacle équestre en plein air au Royaume-Uni, attire des milliers de visiteurs chaque année. Pour garantir le succès de l'événement, il est primordial de fournir une connectivité fiable aux zones réservées au personnel et aux commerçants.
-
-Pour atteindre cet objectif, notre équipe a déployé un réseau sans fil robuste sur le site du spectacle et a utilisé ArcGIS pour créer une cartographie thermique complète. Cette cartographie thermique a été générée en collectant des relevés de puissance de signal géolocalisés à partir de smartphones dans tout le site. Les données ont ensuite été analysées et visualisées dans ArcGIS, mettant en évidence les zones avec une faible puissance de signal ou des zones sans couverture sans fil.
-
-Pour mieux comprendre les performances du réseau, nous avons superposé la carte thermique sur une carte du site géoréférencée. Cette carte du site indiquait précisément l'emplacement des points d'accès sans fil, des itinéraires de câbles et des commutateurs réseau. Cette intégration des données nous a permis d'identifier d'éventuels problèmes de réseau et de prendre des décisions éclairées pour optimiser la connectivité des zones du personnel et des commerçants.
-
-Grâce à une planification et un déploiement méticuleux, le réseau sans fil du Royal Windsor Horse Show a fonctionné de manière exemplaire. Il a joué un rôle essentiel en assurant le bon déroulement de l'événement et en répondant aux besoins de connectivité du personnel et des commerçants. Nous sommes fiers de notre contribution au succès de l'événement et d'avoir soutenu une communication et des opérations fluides tout au long du prestigieux Royal Windsor Horse Show.
-
-
-
-![Docusaurus Plushie](/img/windsor-2.png)
-
-
 
 # Improving Wireless Connectivity at the Royal Windsor Horse Show using ArcGIS
 

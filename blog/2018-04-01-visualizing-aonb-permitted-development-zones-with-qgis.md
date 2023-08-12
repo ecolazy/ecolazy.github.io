@@ -1,20 +1,10 @@
 ---
 slug: visualizing-aonb-permitted-development-zones-with-qgis
-title: "Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS - Optimisation de l'Analyse de Site"
+title: Visualizing AONB Permitted Development Zones with QGIS - Streamlining Site Analysis
+
 authors: ecolazy
 tags: [hola, docusaurus]
 ---
-# Visualisation des Zones de Développement Autorisées dans les AONB avec QGIS : Optimisation de l Analyse de Site
-
-Nous utilisons fréquemment des logiciels SIG pour identifier les zones les plus propices au développement immobilier. Une méthode que nous employons consiste à importer des polygones topographiques d'OS MasterMap dans le logiciel et à utiliser l'outil de tampon pour créer des lignes autour de ces polygones. Cela nous permet de visualiser les zones où la construction est autorisée en fonction de diverses restrictions de zonage et réglementaires.
-
-Par exemple, dans les zones de beauté exceptionnelle, les dépendances d'une superficie supérieure à 10 m² doivent être situées dans un rayon de 20 mètres de la maison principale. Pour identifier les zones où nous pouvons construire des dépendances conformément à cette réglementation, nous utilisons l'outil de tampon avec un rayon de 20 mètres autour du polygone de la maison principale. Cela crée une ligne autour de la maison principale représentant la zone dans laquelle nous sommes autorisés à construire des dépendances.
-
-De plus, si la dépendance proposée est située à moins de 2 mètres de la limite de propriété, sa hauteur totale est limitée à seulement 2,4 mètres. Pour nous aider à identifier la meilleure zone pour construire dans ces contraintes, nous créons un tampon autour de la limite de propriété à l'aide de l'outil de tampon. La zone où le tampon autour de la maison principale chevauche l'inverse du tampon autour de la limite de propriété représente la zone où nous sommes autorisés à construire une dépendance avec un toit en pente jusqu'à 4 mètres de hauteur (avec une hauteur de corniche de 2,5 mètres) ou un toit plat jusqu'à 3 mètres de hauteur.
-
-En utilisant ces outils SIG, nous sommes en mesure d'identifier efficacement et précisément les zones les plus appropriées pour le développement immobilier. Cette approche d'analyse de site rationalisée nous permet de prendre des décisions éclairées, en garantissant le respect des réglementations et en optimisant le potentiel de chaque projet.
-
-
 
 # Visualizing AONB Permitted Development Zones with QGIS: Streamlining Site Analysis
 

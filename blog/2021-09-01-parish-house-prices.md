@@ -1,16 +1,9 @@
 ---
 slug: parish-house-prices
-title: Cartographie des Prix des Maisons par Paroisse - Une Carte des Prix de Vente Moyens
+title: Parish House Prices - A Map of Average Sale Prices
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
-
-# Cartographie des Prix des Maisons par Paroisse - Une Carte des Prix de Vente Moyens
-Afin d'évaluer avec précision le marché immobilier, notre équipe a utilisé les données de vente de biens immobiliers provenant du registre foncier et les données de codes postaux de l'Ordnance Survey pour déterminer les coordonnées de latitude et de longitude de chaque vente de maison. Ces données ont ensuite été importées dans une base de données PostGIS, où une requête SQL a été exécutée pour calculer le prix moyen des maisons pour chaque paroisse. Pour faciliter la visualisation et l'analyse de ces informations, nous avons utilisé le puissant logiciel de cartographie QGIS. En colorant les polygones représentant chaque paroisse en fonction du prix moyen, nous avons pu afficher clairement et intuitivement les variations du marché immobilier dans la région.
-
-Ce processus nous a permis d'obtenir une compréhension détaillée et nuancée du marché immobilier, et d'identifier des tendances et des schémas qui n'auraient pas été immédiatement apparents sans l'utilisation de l'analyse spatiale. En combinant les solides capacités de gestion des données de PostGIS avec les fonctionnalités intuitives de cartographie de QGIS, nous avons pu analyser efficacement et efficacement des ensembles de données complexes et extraire des informations précieuses.
-
-![Docusaurus Plushie](/img/price-paid-parish.jpg)
 
 # Parish House Prices - A Map of Average Sale Prices
 
