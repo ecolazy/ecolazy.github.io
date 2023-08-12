@@ -2,11 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecolazy.github.io/blog</id>
     <title>ecolazy Blog</title>
-    <updated>2023-07-29T00:00:00.000Z</updated>
+    <updated>2023-08-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecolazy.github.io/blog"/>
     <subtitle>ecolazy Blog</subtitle>
     <icon>https://ecolazy.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[mastermap on aws arm64]]></title>
+        <id>https://ecolazy.github.io/blog/mastermap-on-aws-arm64</id>
+        <link href="https://ecolazy.github.io/blog/mastermap-on-aws-arm64"/>
+        <updated>2023-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ssh -i "$HOME/.ssh/key.pem" ubuntu@ec2-123.eu-north-1.compute.amazonaws.com]]></summary>
+        <content type="html"><![CDATA[<p>ssh -i "$HOME/.ssh/key.pem" <a href="mailto:ubuntu@ec2-123.eu-north-1.compute.amazonaws.com" target="_blank" rel="noopener noreferrer">ubuntu@ec2-123.eu-north-1.compute.amazonaws.com</a></p><h1>2. INSTALL REQUIRED SOFTWARE</h1><p>sudo apt update
+sudo apt install docker.io
+sudo apt install certbot python3-certbot-nginx</p><h1>3. SETUP DIRECTORY FOR POSTGRES DATA</h1><p>mkdir ~/data-volume</p><h1>4. TRANSFER FILES FROM LAPTOP TO SERVER</h1><h1>(Execute this command from the local machine, not inside the SSH session)</h1><p>scp -i  /Users/reuben/.ssh/key.pem -r /Volumes/GoogleDrive/My\ Drive/Loader <a href="mailto:ubuntu@ec2-123.eu-north-1.compute.amazonaws.com" target="_blank" rel="noopener noreferrer">ubuntu@ec2-123.eu-north-1.compute.amazonaws.com</a>:/home/ubuntu/</p><h1>5. CONFIGURE LOADER</h1><h1>Ensure to modify the loader.config parameters accordingly</h1><p>ogr_cmd=ogr2ogr --config GML_EXPOSE_FID NO -append -skipfailures -f PostgreSQL PG:'dbname=postgres active_schema=public host=postgis user=postgres password=p sslmode=require' $file_path</p><h1>Run the loader script</h1><p>python loader.py config.loader</p><h1>6. DNS CONFIGURATION</h1><h1>Log into domain name provider manually and add an www A name record for instance IP.</h1><h1>7. AWS SECURITY GROUPS</h1><h1>Open port 443 and port 80 for the instance via the AWS console.</h1><h1>8. CERTBOT SETUP</h1><p>sudo certbot certonly --nginx -d ecolazy.co.uk</p><h1>Add a cron job for auto-renewal of the certificate</h1><p>(sudo crontab -l 2&gt;/dev/null; echo "15 3 * * * /usr/bin/certbot renew --quiet") | sudo crontab -</p><h1>9. DOCKER SETUP</h1><p>sudo docker run -d \
+-p 5432:5432 \
+--name "postgis" \
+--restart unless-stopped \
+-v $HOME/data-volume:/var/lib/postgresql \
+-v /etc/letsencrypt:/etc/letsencrypt:ro \
+-e POSTGRES_PASSWORD=p \
+-e POSTGRES_USER=postgres \
+-e POSTGRES_DB=postgres \
+tobi312/rpi-postgresql-postgis:14-3.3-alpine-arm64</p><h1>10. POSTGRES SSL CONFIGURATION</h1><h1>First, ensure the Postgres directory for certs exists</h1><p>mkdir -p /etc/postgres-certs</p><h1>Create a script to update and set permissions for Postgres certificates</h1><p>cat &gt; update_postgres_certs.sh &lt;&lt;EOF
+#!/bin/bash
+cp /etc/letsencrypt/live/ecolazy.co.uk/fullchain.pem /etc/postgres-certs/
+cp /etc/letsencrypt/live/ecolazy.co.uk/privkey.pem /etc/postgres-certs/
+chown postgres:postgres /etc/postgres-certs/*
+chmod 600 /etc/postgres-certs/privkey.pem
+chmod 644 /etc/postgres-certs/fullchain.pem
+EOF</p><p>chmod +x update_postgres_certs.sh</p><h1>Create a script for the Certbot post-hook</h1><p>cat &gt; certbot_post_hook.sh &lt;&lt;EOF
+#!/bin/bash
+docker exec postgis /update_postgres_certs.sh
+docker restart postgis
+EOF</p><p>chmod +x certbot_post_hook.sh</p><p>sudo certbot renew --post-hook "/home/ubuntu/certbot_post_hook.sh"</p><h1>Adjust Postgres configuration inside the container</h1><p>sudo docker exec -it postgis bash -c "echo \"ssl_cert_file = '/etc/postgres-certs/fullchain.pem'\" &gt;&gt; /var/lib/postgresql/data/postgresql.conf"
+sudo docker exec -it postgis bash -c "echo \"ssl_key_file = '/etc/postgres-certs/privkey.pem'\" &gt;&gt; /var/lib/postgresql/data/postgresql.conf"
+sudo docker exec -it postgis bash -c "echo \"hostssl all all 0.0.0.0/0 md5\" &gt;&gt; /var/lib/postgresql/data/pg_hba.conf"</p><h1>Restart the PostGIS container</h1><p>sudo docker restart postgis</p><h1>11. TEST</h1><h1>Use the provided credentials to test the connection</h1><p>psql "host=host port=5432 dbname=postgres user=postgres sslmode=require" # Enter password when prompted</p>]]></content>
+        <author>
+            <name>ecolazy</name>
+            <uri>https://ecolazy.github.io</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Images to Vector Art - Laser Cutting with Midjourney and AI Upscaling]]></title>
         <id>https://ecolazy.github.io/blog/vectorizing</id>
