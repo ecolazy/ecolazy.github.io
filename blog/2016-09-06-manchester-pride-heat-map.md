@@ -1,6 +1,6 @@
 ---
 slug: wireless-coverage-at-manchester-pride
-title: Seamless Wireless Connectivity at Manchester Pride: A Heatmap Analysis
+title: Seamless Wireless Connectivity at Manchester Pride - A Heatmap Analysis
 authors: ecolazy
 tags: [hola, docusaurus]
 ---

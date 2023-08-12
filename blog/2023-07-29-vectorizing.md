@@ -1,6 +1,6 @@
 ---
 slug: vectorizing
-title: From Images to Vector Art: Laser Cutting with Midjourney and AI Upscaling
+title: From Images to Vector Art - Laser Cutting with Midjourney and AI Upscaling
 authors: ecolazy
 tags: [hello, docusaurus]
 ---

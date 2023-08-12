@@ -1,6 +1,6 @@
 ---
 slug: looking-at-nature
-title: Harmony of Natural Building Materials: A Journey of Exploration and Inspiration
+title: Harmony of Natural Building Materials - A Journey of Exploration and Inspiration
 authors: ecolazy
 tags: [hello, docusaurus]
 ---
