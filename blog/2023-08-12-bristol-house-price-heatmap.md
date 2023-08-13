@@ -17,7 +17,7 @@ Heatmaps are a powerful visualization technique that allow you to represent the 
    Since we're focusing on Bristol, let's filter out only the rows with Bristol postcodes using the `grep` command. Run the following command in your terminal:
 
    ```bash
-   grep '^"[^"]*","[^"]*","[^"]*","BS[1-9] ' pp-monthly-update-new-version.csv > bristol-pp.csv
+   grep '^"[^"]*","[^"]*","[^"]*","BS[1-9] ' pp-complete.csv > pp-complete-bs.csv
     ```
 # Step 2: Geocode the Data
 ## Geocode Using csv2geo:

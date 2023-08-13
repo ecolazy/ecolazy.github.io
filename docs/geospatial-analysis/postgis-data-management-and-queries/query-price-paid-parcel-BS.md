@@ -4,18 +4,17 @@ sidebar_position: 3
 
 # Creating a Heatmap of Bristol House Prices in QGIS from CSV Data
 
-Heatmaps are a powerful visualization technique that allow you to represent the intensity of data using color gradients. In this tutorial, we'll walk through the steps to create a heatmap in QGIS using CSV data. We'll be using real estate price data from the UK government's Price Paid Data downloads as an example. You can download the data from [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).
+ [here](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).
 
 ## Step 1: Download and Filter Data
 
 1. **Download the CSV Data:**
-   Download the Price Paid Data CSV file from the provided [link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).
+[link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads).
 
 2. **Filter for Bristol Postcodes:**
-   Since we're focusing on Bristol, let's filter out only the rows with Bristol postcodes using the `grep` command. Run the following command in your terminal:
 
    ```bash
-   grep '^"[^"]*","[^"]*","[^"]*","BS[1-9] ' pp-monthly-update-new-version.csv > bristol-pp.csv
+   grep '^"[^"]*","[^"]*","[^"]*","BS[1-9] ' pp-complete.csv > pp-complete-bs.csv
     ```
 # Step 2: Geocode the Data
 ## Geocode Using csv2geo:
