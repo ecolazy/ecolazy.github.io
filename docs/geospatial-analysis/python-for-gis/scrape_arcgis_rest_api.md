@@ -20,7 +20,7 @@ for list_item in list_items:
         query_url = f"{base_url}{list_item}/FeatureServer/{endpoint}/query?where=1%3D1&outFields=*&returnGeometry=true&f=geojson"
 
         try:
-            response = requests.get(query_url)
+            response = requests.get(query_url, timeout=1)  # Corrected the placement of timeout parameter
             response.raise_for_status()  # Check for HTTP errors
 
             # Save response content as GeoJSON
