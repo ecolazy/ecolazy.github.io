@@ -7,7 +7,6 @@ tags: [hello, docusaurus]
 
 # Infinite Universe Illusion: A Method of Immersive Visual Effects Using LED Light Strips and Optical Materials
 
-![Docusaurus Plushie](/img/ms-3.png)
 
 ## Method of Creating an Illusion for an Infinite Universe Utilizing LED Light Strips, Acrylic Sheets, Mirror Film, Half Mirror Film, and Dichroic Film
 

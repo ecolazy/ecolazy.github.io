@@ -17,23 +17,6 @@ Through this integrated approach, we can harness the potential of spatial data a
 
 
 
-
-
-
-![Docusaurus Plushie](/img/bha-1.png)
-![Docusaurus Plushie](/img/bha-2.png)
-![Docusaurus Plushie](/img/bha-3.png)
-![Docusaurus Plushie](/img/bha-4.png)
-![Docusaurus Plushie](/img/bha-5.png)
-![Docusaurus Plushie](/img/bha-6.png)
-![Docusaurus Plushie](/img/bha-7.png)
-![Docusaurus Plushie](/img/bha-8.png)
-![Docusaurus Plushie](/img/bha-9.png)
-![Docusaurus Plushie](/img/bha-10.png)
-![Docusaurus Plushie](/img/bha-11.png)
-![Docusaurus Plushie](/img/bha-12.png)
-
-
 # References
 [qgis bha](https://digimap.edina.ac.uk/help/gis/qgis/qgis_bha/)
 

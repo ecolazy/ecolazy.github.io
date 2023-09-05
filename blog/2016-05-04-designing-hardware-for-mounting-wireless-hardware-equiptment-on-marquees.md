@@ -15,9 +15,3 @@ A vital element of this system is the pipe clamp, precisely tailored to fit stan
 
 With this hardware design, we aim to enhance wireless connectivity in outdoor settings, providing seamless and secure communication during various events while seamlessly blending with the overall marquee aesthetics. Our cutting-edge solution opens new possibilities for event organizers, ensuring a reliable and visually pleasing wireless experience for attendees.
 
-
-![Docusaurus Plushie](/img/clamp-2.jpg)
-
-
-![Docusaurus Plushie](/img/clamp-3.jpg)
-

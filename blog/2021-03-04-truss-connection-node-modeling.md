@@ -19,8 +19,3 @@ Overall, the dodecahedron-shaped structural node we created proved to be an effe
 
 
 
-
-
-![Docusaurus Plushie](/img/truss-1.jpg)
-
-![Docusaurus Plushie](/img/truss-2.jpg)

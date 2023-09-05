@@ -21,9 +21,3 @@ This project exemplifies the enthralling fusion of engineering, design, and art.
 
 
 
-
-
-
-![Docusaurus Plushie](/img/egg-1.jpg)
-
-![Docusaurus Plushie](/img/egg-2.jpg)

@@ -17,5 +17,3 @@ Thanks to this meticulous planning and deployment, the wireless network at the R
 
 
 
-![Docusaurus Plushie](/img/windsor-2.png)
-

@@ -19,6 +19,3 @@ By harnessing the power of these GIS tools, we effectively and accurately identi
 
 
 
-
-
-![Docusaurus Plushie](/img/permitted-development.jpg)

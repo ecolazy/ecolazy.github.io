@@ -7,7 +7,6 @@ tags: [hello, docusaurus]
 
 # Advancing Solar Concentration with a Spherical Solar Concentrator
 
-![Spherical Solar Concentrator](/img/solar-concentrator-3.jpg)
 
 ## Introduction
 

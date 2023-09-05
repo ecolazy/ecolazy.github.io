@@ -20,14 +20,3 @@ Overall, the design and construction of the circular stage were challenging yet 
 
 
 
-
-![Docusaurus Plushie](/img/stage-7.jpg)
-
-![Docusaurus Plushie](/img/stage-8.jpg)
-![Docusaurus Plushie](/img/stage-2.jpg)
-
-![Docusaurus Plushie](/img/stage-6.jpg)
-
-![Docusaurus Plushie](/img/stage-1.jpg)
-
-![Docusaurus Plushie](/img/stage-10.jpg)

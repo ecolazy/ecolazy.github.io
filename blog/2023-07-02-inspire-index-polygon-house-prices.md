@@ -18,7 +18,6 @@ Next, we used the \copy command and SQL JOIN to combine the price and coordinate
 Finally, we used the powerful mapping software QGIS to export the table from the database and modified the layer properties for visual appeal. Through this process, we were able to effectively organize and analyze the real estate data, allowing us to extract valuable insights and gain a deeper understanding of the market.
 
 
-![Docusaurus Plushie](/img/price-paid-parcel.jpg)
 
 During our analysis of real estate data, we encountered an issue with some of the postal codes not being properly associated with the intended polygons. This issue had the potential to significantly impact the accuracy and usefulness of our data.
 

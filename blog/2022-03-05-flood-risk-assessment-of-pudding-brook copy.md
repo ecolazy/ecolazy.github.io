@@ -18,4 +18,4 @@ By leveraging Digital Terrain Model LIDAR tiles and contour polygons, we obtaine
 
 
 
-![Docusaurus Plushie](/img/pudding-brook.jpg)
+

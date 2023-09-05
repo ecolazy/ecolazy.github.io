@@ -12,4 +12,3 @@ In order to accurately assess the real estate market, our team utilized property
 This process allowed us to gain a detailed and nuanced understanding of the real estate market, and to identify trends and patterns that would not have been immediately apparent without the use of spatial analysis. By combining the robust data management capabilities of PostGIS with the intuitive mapping capabilities of QGIS, we were able to effectively and efficiently analyze complex data sets and extract valuable insights.
 
 
-![Docusaurus Plushie](/img/price-paid-parish.jpg)

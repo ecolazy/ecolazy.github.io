@@ -17,10 +17,3 @@ FROM topographicarea
 WHERE 'Natural Environment' = ANY (descriptivegroup)
 ```
 
-![Docusaurus Plushie](/img/wildlife-corridors-2.png)
-
-![Docusaurus Plushie](/img/wildlife-corridors-2.png)
-
-The images illustrate how edges like roads and railway tracks can be strategically utilized as wildlife corridors.
-
-![Docusaurus Plushie](/img/wildlife-corridors-3.png)
