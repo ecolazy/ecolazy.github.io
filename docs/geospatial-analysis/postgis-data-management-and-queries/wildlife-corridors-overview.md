@@ -45,13 +45,7 @@ FROM topographicarea
 WHERE 'Building' = ANY (descriptivegroup)
 ```
 
-![Docusaurus Plushie](/img/wildlife-corridors-1.png)
 
-![Docusaurus Plushie](/img/wildlife-corridors-2.png)
-
-You can see how the edges or roads and railway tracs could be used as wildlife corridors.
-
-![Docusaurus Plushie](/img/wildlife-corridors-3.png)
 
 
 ## References

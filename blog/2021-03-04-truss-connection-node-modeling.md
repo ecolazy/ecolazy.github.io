@@ -6,7 +6,7 @@ tags: [hola, docusaurus]
 ---
 
 # Innovative Dodecahedron Structural Node: Enhancing Truss Flexibility and Strength
-![Docusaurus Plushie](/img/truss-3.png)
+
 
 
 In this project, our objective was to design and fabricate a unique dodecahedron-shaped structural node to be utilized in a truss system. Trusses are vital components in structural engineering, consisting of interconnected struts that work collaboratively to evenly distribute loads, ensuring the stability and strength of the overall structure. Our innovative node boasted 12 pentagonal faces, and each truss strut was connected to the center of one of these faces using a single bolt. The bolt passed through a hole in the center of the strut's end cap and was securely fastened by screwing it into a threaded hole located at the center of the dodecahedron face.

@@ -49,8 +49,8 @@ FROM topographicarea
 WHERE '%Rail%' = LIKE (descriptiveterm)
 ```
 
-![Docusaurus Plushie](/img/wildlife-corridors-4.png)
 
-wildlife-corridors-5.png
+
+
 
 ## References

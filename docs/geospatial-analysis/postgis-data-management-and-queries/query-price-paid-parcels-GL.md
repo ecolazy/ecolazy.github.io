@@ -176,7 +176,7 @@ Colour Ramp: Spectral
 Invert Colour Ramp
 Segmentation: Equal Interval
 ```
-![Docusaurus Plushie](/img/price-paid-parcel.jpg)
+
 
 
 
