@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/creating-3d-buildings-from-mastermap-with-qgis",
+  "editUrl": "https://github.com/ecolazy/blog/2021-02-02-creating-3d-buildings-from-mastermap-with-qgis.md",
+  "source": "@site/blog/2021-02-02-creating-3d-buildings-from-mastermap-with-qgis.md",
+  "title": "Creating 3d Buildings From Mastermap With Qgis",
+  "description": "The Ordnance Survey Mastermap Topography Layer, the Building Height Attribute (BHA), and the Environment Agency LiDAR Digital Terrain Model (DTM) are all useful data sources that can be used to create 3D models of buildings. By combining this data and using the Qgis2ThreeJS plugin in QGIS, it is possible to visualize the BHA data in 3D and create a 3D model of a building.",
+  "date": "2021-02-02T00:00:00.000Z",
+  "formattedDate": "February 2, 2021",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.13,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "creating-3d-buildings-from-mastermap-with-qgis",
+    "title": "Creating 3d Buildings From Mastermap With Qgis",
+    "authors": "ecolazy",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Truss Connection Node Modeling",
+    "permalink": "/blog/truss-connection-node-modeling"
+  },
+  "nextItem": {
+    "title": "Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage",
+    "permalink": "/blog/gifford-circus-cry-wheel-performances"
+  }
+}

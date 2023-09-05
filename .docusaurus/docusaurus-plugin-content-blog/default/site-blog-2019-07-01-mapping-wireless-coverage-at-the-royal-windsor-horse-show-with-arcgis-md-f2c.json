@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis",
+  "editUrl": "https://github.com/ecolazy/blog/2019-07-01-mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis.md",
+  "source": "@site/blog/2019-07-01-mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis.md",
+  "title": "Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS",
+  "description": "The Royal Windsor Horse Show is an annual event that attracts thousands of visitors and is the largest outdoor horse show in the United Kingdom. In order to ensure that the event runs smoothly, it is important to provide reliable connectivity to the staff and trader areas.",
+  "date": "2019-07-01T00:00:00.000Z",
+  "formattedDate": "July 1, 2019",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.085,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis",
+    "title": "Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS",
+    "authors": "ecolazy",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Gifford Circus Cyr Wheel Performances - A Custom Modular Circular Stage",
+    "permalink": "/blog/gifford-circus-cry-wheel-performances"
+  },
+  "nextItem": {
+    "title": "Tracking Network Hardware Assets at the Isle of Wight Festival",
+    "permalink": "/blog/tracking-network-hardware-assets-at-the-isle-of-wight-festival"
+  }
+}

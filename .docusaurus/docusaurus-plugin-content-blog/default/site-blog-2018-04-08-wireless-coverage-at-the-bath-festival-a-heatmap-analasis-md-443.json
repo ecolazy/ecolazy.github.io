@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/wireless-coverage-at-the-bath-festival-a-heatmap-analasis",
+  "editUrl": "https://github.com/ecolazy/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
+  "source": "@site/blog/2018-04-08-wireless-coverage-at-the-bath-festival-a-heatmap-analasis.md",
+  "title": "Wireless Coverage at the Bath Festival - A Heatmap Analysis",
+  "description": "At the Bath Festival, a small deployment of access points was placed around the tents to provide WiFi connectivity to attendees. In order to maximize coverage and ensure reliable connectivity, each access point was connected to a sector on an adjacent building via a point-to-point wireless link. In addition to the wireless link, each access point was also connected to a ADSL line and a temporary satellite on the roof to provide multiple redundant Internet connections.",
+  "date": "2018-04-08T00:00:00.000Z",
+  "formattedDate": "April 8, 2018",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.18,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "wireless-coverage-at-the-bath-festival-a-heatmap-analasis",
+    "title": "Wireless Coverage at the Bath Festival - A Heatmap Analysis",
+    "authors": "ecolazy",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Using Data Queries to Enhance Wildlife Connectivity",
+    "permalink": "/blog/using-data-queries-to-enhance-wildlife-connectivity"
+  },
+  "nextItem": {
+    "title": "Exploring the Unique Characteristics of Natural Building Materials",
+    "permalink": "/blog/exploring-the-unique-characteristics-of-natural-building-materials"
+  }
+}

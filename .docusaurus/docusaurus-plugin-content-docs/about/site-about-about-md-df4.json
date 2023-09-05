@@ -1,0 +1,19 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "about",
+  "description": "about reuben",
+  "source": "@site/about/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/about/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "about",
+    "description": "about reuben",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar"
+}

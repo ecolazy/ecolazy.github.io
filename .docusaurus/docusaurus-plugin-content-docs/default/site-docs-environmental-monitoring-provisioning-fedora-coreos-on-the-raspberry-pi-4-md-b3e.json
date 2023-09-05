@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+  "id": "environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+  "title": "Provisioning Fedora CoreOS on the Raspberry Pi 4",
+  "description": "prep seperate usb for firmware",
+  "source": "@site/docs/environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4.md",
+  "sourceDirName": "environmental-monitoring",
+  "slug": "/environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+  "permalink": "/docs/environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environmental Monitoring",
+    "permalink": "/docs/category/environmental-monitoring"
+  },
+  "next": {
+    "title": "Installing Cisco Cloud Wireless Controller with KVM",
+    "permalink": "/docs/environmental-monitoring/installing-cisco-cloud-wireless-controller"
+  }
+}

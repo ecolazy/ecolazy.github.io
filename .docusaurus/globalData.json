@@ -1,0 +1,312 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "about": {
+      "path": "/about",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/about",
+          "mainDocId": "about",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/about/about",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/about/about",
+                "label": "about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "artificial-intelligence/using-deepl-api",
+              "path": "/docs/artificial-intelligence/using-deepl-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "artificial-intelligence/using-openai-api",
+              "path": "/docs/artificial-intelligence/using-openai-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud-computing/infrastructure-as-a-service",
+              "path": "/docs/cloud-computing/infrastructure-as-a-service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud-computing/platform-as-a-service",
+              "path": "/docs/cloud-computing/platform-as-a-service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud-computing/software-as-a-service",
+              "path": "/docs/cloud-computing/software-as-a-service",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/configuring-visual-studio-code",
+              "path": "/docs/desktop-linux/configuring-visual-studio-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/provisioning-fedora-workstation",
+              "path": "/docs/desktop-linux/provisioning-fedora-workstation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/setting-up-qgis",
+              "path": "/docs/desktop-linux/setting-up-qgis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/setup-rclone",
+              "path": "/docs/desktop-linux/setup-rclone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+              "path": "/docs/desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+              "path": "/docs/desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+              "path": "/docs/desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/installing-cisco-cloud-wireless-controller",
+              "path": "/docs/environmental-monitoring/installing-cisco-cloud-wireless-controller",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+              "path": "/docs/environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/reading-sensors-with-python/ac-current",
+              "path": "/docs/environmental-monitoring/reading-sensors-with-python/ac-current",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/reading-sensors-with-python/car-obd-port",
+              "path": "/docs/environmental-monitoring/reading-sensors-with-python/car-obd-port",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+              "path": "/docs/environmental-monitoring/reading-sensors-with-python/carbon-dioxide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+              "path": "/docs/environmental-monitoring/reading-sensors-with-python/starting-scripts-with-systemd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/reading-sensors-with-python/thermocouple",
+              "path": "/docs/environmental-monitoring/reading-sensors-with-python/thermocouple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environmental-monitoring/setting-up-influxdb-database-server",
+              "path": "/docs/environmental-monitoring/setting-up-influxdb-database-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-least-cost-path-wildlife-corridors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-microclimates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/query-workings",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-workings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+              "path": "/docs/geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+              "path": "/docs/geospatial-analysis/publishing-maps/mapbox-map-with-leaflet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/publishing-maps/network-status-map",
+              "path": "/docs/geospatial-analysis/publishing-maps/network-status-map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+              "path": "/docs/geospatial-analysis/python-for-gis/identify-flat-terrain-with-above-average-sun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/setting-up-a-postgis-database-server",
+              "path": "/docs/geospatial-analysis/setting-up-a-postgis-database-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+              "path": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+              "path": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+              "path": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+              "path": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+              "path": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "parametric-modeling/spherical-solar-concentrator-with-ladybug",
+              "path": "/docs/parametric-modeling/spherical-solar-concentrator-with-ladybug",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "parametric-modeling/sun-shading-model-with-radiance",
+              "path": "/docs/parametric-modeling/sun-shading-model-with-radiance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/environmental-monitoring",
+              "path": "/docs/category/environmental-monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reading-sensors-with-python",
+              "path": "/docs/category/reading-sensors-with-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/geospatial-analysis",
+              "path": "/docs/category/geospatial-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/python-for-gis",
+              "path": "/docs/category/python-for-gis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/uploading-data-to-postgis-with-linux-shell",
+              "path": "/docs/category/uploading-data-to-postgis-with-linux-shell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/postgis-data-management-and-queries",
+              "path": "/docs/category/postgis-data-management-and-queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/publishing-maps-with-leaflet",
+              "path": "/docs/category/publishing-maps-with-leaflet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/artificial-intelligence",
+              "path": "/docs/category/artificial-intelligence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cloud-computing",
+              "path": "/docs/category/cloud-computing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/desktop-linux",
+              "path": "/docs/category/desktop-linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/working-with-files-via-linux-shell",
+              "path": "/docs/category/working-with-files-via-linux-shell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/parametric-modeling",
+              "path": "/docs/category/parametric-modeling",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

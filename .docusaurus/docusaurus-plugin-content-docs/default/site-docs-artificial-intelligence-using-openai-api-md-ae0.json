@@ -1,0 +1,26 @@
+{
+  "unversionedId": "artificial-intelligence/using-openai-api",
+  "id": "artificial-intelligence/using-openai-api",
+  "title": "Using OpenAI API",
+  "description": "",
+  "source": "@site/docs/artificial-intelligence/using-openai-api.md",
+  "sourceDirName": "artificial-intelligence",
+  "slug": "/artificial-intelligence/using-openai-api",
+  "permalink": "/docs/artificial-intelligence/using-openai-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translating books with DeepL",
+    "permalink": "/docs/artificial-intelligence/using-deepl-api"
+  },
+  "next": {
+    "title": "Cloud Computing",
+    "permalink": "/docs/category/cloud-computing"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+  "id": "desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+  "title": "Copy files into directories by extension",
+  "description": "This script searches all subdirectories for files and moves them into subdirectories named after their file extensions, while also handling filenames that contain special characters:",
+  "source": "@site/docs/desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension.md",
+  "sourceDirName": "desktop-linux/working-with-files-via-linux-shell",
+  "slug": "/desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+  "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Working with files via Linux shell",
+    "permalink": "/docs/category/working-with-files-via-linux-shell"
+  },
+  "next": {
+    "title": "Extract all zips",
+    "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/extract-all-zips"
+  }
+}

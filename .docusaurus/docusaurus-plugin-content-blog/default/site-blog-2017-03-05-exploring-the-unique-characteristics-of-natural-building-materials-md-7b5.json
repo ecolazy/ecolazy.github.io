@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/exploring-the-unique-characteristics-of-natural-building-materials",
+  "editUrl": "https://github.com/ecolazy/blog/2017-03-05-exploring-the-unique-characteristics-of-natural-building-materials.md",
+  "source": "@site/blog/2017-03-05-exploring-the-unique-characteristics-of-natural-building-materials.md",
+  "title": "Exploring the Unique Characteristics of Natural Building Materials",
+  "description": "Inspired by the idea of using natural building materials, we set out to explore the unique characteristics and personalities of each material and use them in innovative ways in our design. We wanted to capture the mood and atmosphere of the natural environments where these materials are typically found, such as the underground world of stone and water or the airy heights of wood.",
+  "date": "2017-03-05T00:00:00.000Z",
+  "formattedDate": "March 5, 2017",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.765,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "exploring-the-unique-characteristics-of-natural-building-materials",
+    "title": "Exploring the Unique Characteristics of Natural Building Materials",
+    "authors": "ecolazy",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Wireless Coverage at the Bath Festival - A Heatmap Analysis",
+    "permalink": "/blog/wireless-coverage-at-the-bath-festival-a-heatmap-analasis"
+  },
+  "nextItem": {
+    "title": "Flood Risk Assessment of Pudding Brooke",
+    "permalink": "/blog/flood-risk-assessment-of-pudding-brook"
+  }
+}

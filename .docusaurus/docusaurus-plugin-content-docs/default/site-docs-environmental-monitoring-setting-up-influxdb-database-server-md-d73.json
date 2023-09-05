@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/setting-up-influxdb-database-server",
+  "id": "environmental-monitoring/setting-up-influxdb-database-server",
+  "title": "Setting up InfluxDB Database Server with Podman",
+  "description": "First create a pod and inflluxdb container using podman, then generate a YAML file using podman play.",
+  "source": "@site/docs/environmental-monitoring/setting-up-influxdb-database-server.md",
+  "sourceDirName": "environmental-monitoring",
+  "slug": "/environmental-monitoring/setting-up-influxdb-database-server",
+  "permalink": "/docs/environmental-monitoring/setting-up-influxdb-database-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thermocouple",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/thermocouple"
+  },
+  "next": {
+    "title": "Geospatial Analysis",
+    "permalink": "/docs/category/geospatial-analysis"
+  }
+}

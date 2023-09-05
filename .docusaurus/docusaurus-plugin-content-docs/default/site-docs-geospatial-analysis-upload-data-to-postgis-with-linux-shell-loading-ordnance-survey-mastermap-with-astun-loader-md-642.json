@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+  "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+  "title": "Loading Ordnance Survey MasterMap with astun loader",
+  "description": "To do",
+  "source": "@site/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader.md",
+  "sourceDirName": "geospatial-analysis/upload-data-to-postgis-with-linux-shell",
+  "slug": "/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+  "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-mastermap-with-astun-loader",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ordnance survey lidar data with raster2pgsql",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar"
+  },
+  "next": {
+    "title": "Ordnance survey satellite imagery with raster2pgsql",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-ordnance-survey-satellite-imagery"
+  }
+}

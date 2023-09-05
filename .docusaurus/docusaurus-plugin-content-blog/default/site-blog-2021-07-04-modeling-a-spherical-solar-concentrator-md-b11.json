@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/modeling-a-spherical-solar-concentrator",
+  "editUrl": "https://github.com/ecolazy/blog/2021-07-04-modeling-a-spherical-solar-concentrator.md",
+  "source": "@site/blog/2021-07-04-modeling-a-spherical-solar-concentrator.md",
+  "title": "Modeling a Spherical Solar Concentrator",
+  "description": "Docusaurus Plushie",
+  "date": "2021-07-04T00:00:00.000Z",
+  "formattedDate": "July 4, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.325,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "modeling-a-spherical-solar-concentrator",
+    "title": "Modeling a Spherical Solar Concentrator",
+    "authors": "ecolazy",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Parish House Prices - A Map of Average Sale Prices",
+    "permalink": "/blog/parish-house-prices"
+  },
+  "nextItem": {
+    "title": "INSPIRE Index Polygon House Prices - A Map of Average Sale Prices",
+    "permalink": "/blog/inspire-index-polygon-house-prices"
+  }
+}

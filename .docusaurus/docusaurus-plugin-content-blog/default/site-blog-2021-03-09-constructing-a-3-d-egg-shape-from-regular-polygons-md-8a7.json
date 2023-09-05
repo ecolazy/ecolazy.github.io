@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/constructing-a-3d-egg-shape-from-regular-polygons",
+  "editUrl": "https://github.com/ecolazy/blog/2021-03-09-constructing-a-3d-egg-shape-from-regular-polygons.md",
+  "source": "@site/blog/2021-03-09-constructing-a-3d-egg-shape-from-regular-polygons.md",
+  "title": "Constructing a 3D Egg Shape from Regular Polygons",
+  "description": "As engineers and designers, we are often approached with unusual and challenging requests. One such request came from an artist who asked us to help find a suitable geometry for a large egg sculpture. Intrigued by the opportunity to collaborate with an artist and apply our skills in a creative context, we set out to identify possible geometries using generative algorithms in Grasshopper 3D.",
+  "date": "2021-03-09T00:00:00.000Z",
+  "formattedDate": "March 9, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.645,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "constructing-a-3d-egg-shape-from-regular-polygons",
+    "title": "Constructing a 3D Egg Shape from Regular Polygons",
+    "authors": "ecolazy",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "INSPIRE Index Polygon House Prices - A Map of Average Sale Prices",
+    "permalink": "/blog/inspire-index-polygon-house-prices"
+  },
+  "nextItem": {
+    "title": "Provisioning Cisco Cloud Wireless Controller",
+    "permalink": "/blog/provisioning-cisco-cloud-wireless-controller"
+  }
+}

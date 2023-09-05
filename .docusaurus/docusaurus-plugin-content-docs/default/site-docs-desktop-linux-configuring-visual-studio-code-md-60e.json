@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/configuring-visual-studio-code",
+  "id": "desktop-linux/configuring-visual-studio-code",
+  "title": "Configuring Visual Studio Code",
+  "description": "Generate list of extensions from existing installation",
+  "source": "@site/docs/desktop-linux/configuring-visual-studio-code.md",
+  "sourceDirName": "desktop-linux",
+  "slug": "/desktop-linux/configuring-visual-studio-code",
+  "permalink": "/docs/desktop-linux/configuring-visual-studio-code",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup rclone",
+    "permalink": "/docs/desktop-linux/setup-rclone"
+  },
+  "next": {
+    "title": "Setting up Qgis",
+    "permalink": "/docs/desktop-linux/setting-up-qgis"
+  }
+}

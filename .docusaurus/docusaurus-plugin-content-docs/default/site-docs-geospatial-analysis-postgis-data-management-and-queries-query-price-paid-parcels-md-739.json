@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+  "title": "Land registry price paid parcels",
+  "description": "We combined three separate files containing price paid data into a single file, removed unnecessary quotes, selected only rows that contained the string \"GL\" followed by a number between 0 and 9, and printed out only the fourth and second columns. We also added column names and deleted any rows that contained null values.",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flood risk",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-flood-risk"
+  },
+  "next": {
+    "title": "Land registry price paid parish",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parish"
+  }
+}

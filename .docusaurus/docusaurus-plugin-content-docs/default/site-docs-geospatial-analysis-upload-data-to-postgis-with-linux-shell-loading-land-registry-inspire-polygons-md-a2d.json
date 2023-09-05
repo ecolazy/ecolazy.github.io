@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+  "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+  "title": "Loading Land registry inspire polygons",
+  "description": "Download data",
+  "source": "@site/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons.md",
+  "sourceDirName": "geospatial-analysis/upload-data-to-postgis-with-linux-shell",
+  "slug": "/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+  "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loading Bristol city council GeoJson files",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files"
+  },
+  "next": {
+    "title": "Ordnance survey lidar data with raster2pgsql",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-environment-agency-lidar"
+  }
+}

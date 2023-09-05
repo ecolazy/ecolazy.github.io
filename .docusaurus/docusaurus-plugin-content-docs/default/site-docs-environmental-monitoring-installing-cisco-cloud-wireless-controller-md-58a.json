@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/installing-cisco-cloud-wireless-controller",
+  "id": "environmental-monitoring/installing-cisco-cloud-wireless-controller",
+  "title": "Installing Cisco Cloud Wireless Controller with KVM",
+  "description": "Cisco c9800-CL with KVM",
+  "source": "@site/docs/environmental-monitoring/installing-cisco-cloud-wireless-controller.md",
+  "sourceDirName": "environmental-monitoring",
+  "slug": "/environmental-monitoring/installing-cisco-cloud-wireless-controller",
+  "permalink": "/docs/environmental-monitoring/installing-cisco-cloud-wireless-controller",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Provisioning Fedora CoreOS on the Raspberry Pi 4",
+    "permalink": "/docs/environmental-monitoring/provisioning-fedora-coreos-on-the-raspberry-pi 4"
+  },
+  "next": {
+    "title": "Reading sensors with Python",
+    "permalink": "/docs/category/reading-sensors-with-python"
+  }
+}

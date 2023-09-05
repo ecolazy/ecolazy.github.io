@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/vertical-farming-for-continuous-salad-production",
+  "editUrl": "https://github.com/ecolazy/blog/2017-03-05-vertical-farming-for-continuous-salad-production.md",
+  "source": "@site/blog/2017-03-05-vertical-farming-for-continuous-salad-production.md",
+  "title": "Vertical Farming for Continuous Salad Production",
+  "description": "Our team has an innovative idea for a self-sustaining salad bar that utilizes vertical space to meet production needs. We propose planting seedlings in a steel cable reinforced fiber matting that hangs vertically above the counter. This matting would be supported by two large drums at the top and bottom, and would be able to rotate at a speed calculated based on the height of the assembly, the maturation time of the chosen crop, and the desired harvesting frequency. This way, a seedling planted at the bottom would be ready for harvest by the time it reaches the top and returns to the bottom. With this system, the salad bar would be able to achieve perpetual harvesting, meeting its demand for fresh produce without having to rely on traditional terrestrial agriculture methods.",
+  "date": "2017-03-05T00:00:00.000Z",
+  "formattedDate": "March 5, 2017",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "vertical-farming-for-continuous-salad-production",
+    "title": "Vertical Farming for Continuous Salad Production",
+    "authors": "ecolazy",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Flood Risk Assessment of Pudding Brooke",
+    "permalink": "/blog/flood-risk-assessment-of-pudding-brook"
+  },
+  "nextItem": {
+    "title": "Designing a Living Building - An Organism with a Symbiotic Relationship with Its Occupants",
+    "permalink": "/blog/designing-a-living-building:-an-organism-with-a-symbiotic-relationship-with-its-occupants"
+  }
+}

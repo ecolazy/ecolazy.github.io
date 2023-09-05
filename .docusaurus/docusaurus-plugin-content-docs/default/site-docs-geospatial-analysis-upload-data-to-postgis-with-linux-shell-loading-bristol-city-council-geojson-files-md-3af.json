@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+  "id": "geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+  "title": "Loading Bristol city council GeoJson files",
+  "description": "Loop over geojson files and create a new table for each and upload",
+  "source": "@site/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files.md",
+  "sourceDirName": "geospatial-analysis/upload-data-to-postgis-with-linux-shell",
+  "slug": "/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+  "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-bristol-city-council-geojson-files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Uploading Data to PostGIS with Linux Shell",
+    "permalink": "/docs/category/uploading-data-to-postgis-with-linux-shell"
+  },
+  "next": {
+    "title": "Loading Land registry inspire polygons",
+    "permalink": "/docs/geospatial-analysis/upload-data-to-postgis-with-linux-shell/loading-land-registry-inspire-polygons"
+  }
+}

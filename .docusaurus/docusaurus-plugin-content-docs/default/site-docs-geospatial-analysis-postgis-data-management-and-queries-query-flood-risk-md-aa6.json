@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+  "title": "Flood risk",
+  "description": "To calculate flood risk from LiDAR data in PostGIS, you will need to follow these steps:",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/query-flood-risk.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-flood-risk",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PostGIS Data Management and Queries",
+    "permalink": "/docs/category/postgis-data-management-and-queries"
+  },
+  "next": {
+    "title": "Land registry price paid parcels",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-price-paid-parcels"
+  }
+}

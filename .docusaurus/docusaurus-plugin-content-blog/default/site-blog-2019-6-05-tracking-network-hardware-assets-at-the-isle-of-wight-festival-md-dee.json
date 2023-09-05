@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/tracking-network-hardware-assets-at-the-isle-of-wight-festival",
+  "editUrl": "https://github.com/ecolazy/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
+  "source": "@site/blog/2019-6-05-tracking-network-hardware-assets-at-the-isle-of-wight-festival.md",
+  "title": "Tracking Network Hardware Assets at the Isle of Wight Festival",
+  "description": "The Isle of Wight Festival 2019 was a large-scale event that took place at Seaclose Park on the Isle of Wight. With 3km of arenas and fields to cover, the deployment of the network was a massive and complex undertaking. To ensure that the site was properly connected, network cabinets were set up in each arena and connected with miles of fiber optic cable. These cabinets were then connected to multiple ADSL connections that were bonded together, providing a robust and reliable internet connection.",
+  "date": "2019-06-05T00:00:00.000Z",
+  "formattedDate": "June 5, 2019",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.215,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "ecolazy",
+      "title": "Maintainer",
+      "url": "https://ecolazy.github.io",
+      "key": "ecolazy"
+    }
+  ],
+  "frontMatter": {
+    "slug": "tracking-network-hardware-assets-at-the-isle-of-wight-festival",
+    "title": "Tracking Network Hardware Assets at the Isle of Wight Festival",
+    "authors": "ecolazy",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Mapping Wireless Coverage at the Royal Windsor Horse Show with ArcGIS",
+    "permalink": "/blog/mapping-wireless-coverage-at-the-royal-windsor-horse-show-with-arcgis"
+  },
+  "nextItem": {
+    "title": "Live Network Map for WOMAD Festival - Visualizing Status and Coverage",
+    "permalink": "/blog/live-network-map-for-womad-festival"
+  }
+}

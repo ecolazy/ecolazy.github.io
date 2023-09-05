@@ -1,0 +1,16 @@
+{
+  "title": "Reading sensors with Python",
+  "description": "Read sensor values from various Raspberry Pi sensors, and push to database using python",
+  "slug": "/category/reading-sensors-with-python",
+  "permalink": "/docs/category/reading-sensors-with-python",
+  "navigation": {
+    "previous": {
+      "title": "Installing Cisco Cloud Wireless Controller with KVM",
+      "permalink": "/docs/environmental-monitoring/installing-cisco-cloud-wireless-controller"
+    },
+    "next": {
+      "title": "AC Current",
+      "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/ac-current"
+    }
+  }
+}

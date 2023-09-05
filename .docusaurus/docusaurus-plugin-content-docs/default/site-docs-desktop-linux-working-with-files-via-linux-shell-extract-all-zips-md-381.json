@@ -1,0 +1,26 @@
+{
+  "unversionedId": "desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+  "id": "desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+  "title": "Extract all zips",
+  "description": "This script will find all .zip files in the current directory and its subdirectories, and it will unzip each of them.",
+  "source": "@site/docs/desktop-linux/working-with-files-via-linux-shell/extract-all-zips.md",
+  "sourceDirName": "desktop-linux/working-with-files-via-linux-shell",
+  "slug": "/desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+  "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/extract-all-zips",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Copy files into directories by extension",
+    "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/cp-files-into-directories-by-extension"
+  },
+  "next": {
+    "title": "Rename all linux frendly",
+    "permalink": "/docs/desktop-linux/working-with-files-via-linux-shell/rename-all-linux-frendly"
+  }
+}

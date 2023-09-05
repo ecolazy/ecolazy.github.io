@@ -1,0 +1,8 @@
+{
+  "label": "Publishing maps with Leaflet",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Publish interactive maps online using PostGIS backend"
+  }
+}

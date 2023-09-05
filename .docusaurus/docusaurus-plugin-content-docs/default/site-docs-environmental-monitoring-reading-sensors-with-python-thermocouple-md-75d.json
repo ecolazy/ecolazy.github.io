@@ -1,0 +1,26 @@
+{
+  "unversionedId": "environmental-monitoring/reading-sensors-with-python/thermocouple",
+  "id": "environmental-monitoring/reading-sensors-with-python/thermocouple",
+  "title": "Thermocouple",
+  "description": "Hardware",
+  "source": "@site/docs/environmental-monitoring/reading-sensors-with-python/thermocouple.md",
+  "sourceDirName": "environmental-monitoring/reading-sensors-with-python",
+  "slug": "/environmental-monitoring/reading-sensors-with-python/thermocouple",
+  "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/thermocouple",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Carbon Dioxide",
+    "permalink": "/docs/environmental-monitoring/reading-sensors-with-python/carbon-dioxide"
+  },
+  "next": {
+    "title": "Setting up InfluxDB Database Server with Podman",
+    "permalink": "/docs/environmental-monitoring/setting-up-influxdb-database-server"
+  }
+}

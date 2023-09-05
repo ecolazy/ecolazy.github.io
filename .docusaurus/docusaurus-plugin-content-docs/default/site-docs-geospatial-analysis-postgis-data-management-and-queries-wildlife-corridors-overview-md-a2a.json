@@ -1,0 +1,26 @@
+{
+  "unversionedId": "geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+  "id": "geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+  "title": "Wildlife corridor overview",
+  "description": "- Identify areas of high connectivity between different land cover types, such as forests and grasslands. These areas are likely to be used by wildlife as corridors for movement.",
+  "source": "@site/docs/geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview.md",
+  "sourceDirName": "geospatial-analysis/postgis-data-management-and-queries",
+  "slug": "/geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+  "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/wildlife-corridors-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microclimates",
+    "permalink": "/docs/geospatial-analysis/postgis-data-management-and-queries/query-microclimates"
+  },
+  "next": {
+    "title": "Publishing maps with Leaflet",
+    "permalink": "/docs/category/publishing-maps-with-leaflet"
+  }
+}

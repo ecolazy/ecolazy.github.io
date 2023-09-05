@@ -1,0 +1,17 @@
+[
+  {
+    "label": "hola",
+    "permalink": "/blog/tags/hola",
+    "count": 12
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/blog/tags/docusaurus",
+    "count": 20
+  },
+  {
+    "label": "hello",
+    "permalink": "/blog/tags/hello",
+    "count": 8
+  }
+]

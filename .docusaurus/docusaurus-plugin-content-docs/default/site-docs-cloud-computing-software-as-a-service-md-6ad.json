@@ -1,0 +1,26 @@
+{
+  "unversionedId": "cloud-computing/software-as-a-service",
+  "id": "cloud-computing/software-as-a-service",
+  "title": "Software as a Service",
+  "description": "SaaS stands for \"Software as a Service.\" It refers to a cloud computing model in which an organization uses software applications that are hosted and managed by a third-party provider. The organization pays for the software on a subscription basis, typically based on the number of users or the amount of data processed. With SaaS, the organization does not need to worry about installing, configuring, or maintaining the software, as these tasks are handled by the provider.",
+  "source": "@site/docs/cloud-computing/software-as-a-service.md",
+  "sourceDirName": "cloud-computing",
+  "slug": "/cloud-computing/software-as-a-service",
+  "permalink": "/docs/cloud-computing/software-as-a-service",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloud Computing",
+    "permalink": "/docs/category/cloud-computing"
+  },
+  "next": {
+    "title": "Infrastructure as a Service",
+    "permalink": "/docs/cloud-computing/infrastructure-as-a-service"
+  }
+}
