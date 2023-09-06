@@ -1,9 +1,8 @@
 ---
-slug: python-and-qgis-layer-png-export
-title: python and qgis layer png export
-authors: ecolazy
-tags: [hello, docusaurus]
+sidebar_position: 2
 ---
+
+
 # python and qgis layer png export
 ```python
 from qgis.core import QgsProject, QgsMapSettings, QgsMapRendererParallelJob
