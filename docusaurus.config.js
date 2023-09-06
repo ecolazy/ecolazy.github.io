@@ -53,11 +53,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          colorMode: {
-            defaultMode: 'light',
-            disableSwitch: false,
-            respectPrefersColorScheme: false,
-          },
+          
         },
       },
     ],
@@ -78,6 +74,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        // "dark" | "light"
+        defaultMode: 'light',
+
+        // Hides the switch in the navbar
+        // Useful if you want to support a single color mode
+        disableSwitch: false,
+
+        // Should we use the prefers-color-scheme media-query,
+        // using user system preferences, instead of the hardcoded defaultMode
+        respectPrefersColorScheme: false,
+
       navbar: {
         title: 'ecolazy',
         logo: {
