@@ -53,7 +53,6 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          
         },
       },
     ],
@@ -74,18 +73,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      colorMode: {
-        // "dark" | "light"
-        defaultMode: 'light',
-
-        // Hides the switch in the navbar
-        // Useful if you want to support a single color mode
-        disableSwitch: false,
-
-        // Should we use the prefers-color-scheme media-query,
-        // using user system preferences, instead of the hardcoded defaultMode
-        respectPrefersColorScheme: false,
-
       navbar: {
         title: 'ecolazy',
         logo: {
@@ -139,6 +126,18 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      },
+      colorMode: {
+        // "dark" | "light"
+        defaultMode: 'light',
+
+        // Hides the switch in the navbar
+        // Useful if you want to support a single color mode
+        disableSwitch: false,
+
+        // Should we use the prefers-color-scheme media-query,
+        // using user system preferences, instead of the hardcoded defaultMode
+        respectPrefersColorScheme: false,
       },
       prism: {
         theme: lightCodeTheme,
