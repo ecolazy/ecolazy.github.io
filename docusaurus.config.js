@@ -53,6 +53,11 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          colorMode: {
+            defaultMode: 'light',
+            disableSwitch: false,
+            respectPrefersColorScheme: false,
+          },
         },
       },
     ],
