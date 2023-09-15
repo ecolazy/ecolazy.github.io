@@ -137,7 +137,7 @@ const config = {
 
         // Should we use the prefers-color-scheme media-query,
         // using user system preferences, instead of the hardcoded defaultMode
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
       },
       prism: {
         theme: lightCodeTheme,
